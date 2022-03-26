@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1920",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Mainnet execution layer Tim Beiko’s core devs update: merge testing, difficulty bomb can be pushed back as needed, Shanghai update proposed features, executable spec for execution layer and token compensation for client devs & researchers ethereumjs/client v0.4.0: Kiln v2 support Proof of Stake consensus layer Danny Ryan’s Finalized PoS update: help",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-26-2022/",
+          "publishedOn": "2022-03-26T03:19:18.000Z",
+          "wordCount": 1532,
+          "title": "Week in Ethereum News  March 26, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1917",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko: Kiln testnet transition to PoS successful, some implementation issues, more testing needed including devnets and live network shadow forks EIP4895 push withdrawals as operations selected for Shanghai EIP4844 data blob transaction type update Proposal to harmonize Core EIP process",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-19-2022/",
           "publishedOn": "2022-03-19T02:47:52.000Z",
-          "wordCount": 1674,
+          "wordCount": 1676,
           "title": "Week in Ethereum News  March 19, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/03/Uniswap-Grants-Program-Shield-Small.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1909",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-03-12T02:43:12.000Z",
           "wordCount": 1518,
           "title": "Week in Ethereum News  March 12, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/03/Uniswap-Grants-Program-Shield-Small.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1906",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-03-05T03:29:21.000Z",
           "wordCount": 1553,
           "title": "Week in Ethereum News  March 5, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/03/Uniswap-Grants-Program-Shield-Small.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1902",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-02-26T03:38:19.000Z",
           "wordCount": 1412,
           "title": "Week in Ethereum News  February 26, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/03/Uniswap-Grants-Program-Shield-Small.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         }
       ]
     }
