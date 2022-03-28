@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T06:42:03.280Z</id>
+    <id>urn:2022-03-28T06:48:01.094Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-27T06:42:03.280Z</updated>
+    <updated>2022-03-28T06:48:01.094Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-5-2022/"/>
         <updated>2022-03-05T03:29:21.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko: Kiln public testnet next week JSON RPC discussion if safe head or latest block should be default Shanghai upgrade priorities are withdrawals, lower rollup fees, agreed EVM improvements and quick wins   Shanghai candidates: EIP4863 push withdrawals, EIP4844: shard blob]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  February 26, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1902</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-february-26-2022/"/>
-        <updated>2022-02-26T03:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Erigon v2022.02.04: optimization for getStorageAt & getBalance, auto detect latest, poke function to rebroadcast a transaction Otterscan v2022.02.03: address page adds ETH balance & contract creation info Besu v22.1.1: PoW switch off support; QBFT consensus algorithm is production ready for enterprise chains  Proof of Stake consensus layer Superphiz]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

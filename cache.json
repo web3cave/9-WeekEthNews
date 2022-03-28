@@ -44,16 +44,6 @@
           "wordCount": 1553,
           "title": "Week in Ethereum News  March 5, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1902",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Mainnet execution layer Erigon v2022.02.04: optimization for getStorageAt & getBalance, auto detect latest, poke function to rebroadcast a transaction Otterscan v2022.02.03: address page adds ETH balance & contract creation info Besu v22.1.1: PoW switch off support; QBFT consensus algorithm is production ready for enterprise chains  Proof of Stake consensus layer Superphiz",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-26-2022/",
-          "publishedOn": "2022-02-26T03:38:19.000Z",
-          "wordCount": 1412,
-          "title": "Week in Ethereum News  February 26, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         }
       ]
     }
