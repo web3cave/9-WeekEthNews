@@ -44,16 +44,6 @@
           "wordCount": 1676,
           "title": "Week in Ethereum News  March 19, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1909",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Mainnet execution layer Execution Layer PoW switch off named Paris, site of first major community organized conference Nethermind’s full pruning, run a pruned node with ~100Gb of storage Verkle tree single client testnet demo video Proof of Stake consensus layer PoS implementers call video [first 15 mins]. Notes from Ben Edgington",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-12-2022/",
-          "publishedOn": "2022-03-12T02:43:12.000Z",
-          "wordCount": 1518,
-          "title": "Week in Ethereum News  March 12, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }

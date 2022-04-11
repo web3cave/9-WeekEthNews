@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T06:19:06.572Z</id>
+    <id>urn:2022-04-11T06:19:42.192Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-10T06:19:06.572Z</updated>
+    <updated>2022-04-11T06:19:42.192Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-19-2022/"/>
         <updated>2022-03-19T02:47:52.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko: Kiln testnet transition to PoS successful, some implementation issues, more testing needed including devnets and live network shadow forks EIP4895 push withdrawals as operations selected for Shanghai EIP4844 data blob transaction type update Proposal to harmonize Core EIP process]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  March 12, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1909</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-12-2022/"/>
-        <updated>2022-03-12T02:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Execution Layer PoW switch off named Paris, site of first major community organized conference Nethermind’s full pruning, run a pruned node with ~100Gb of storage Verkle tree single client testnet demo video Proof of Stake consensus layer PoS implementers call video [first 15 mins]. Notes from Ben Edgington]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
