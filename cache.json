@@ -44,16 +44,6 @@
           "wordCount": 1534,
           "title": "Week in Ethereum News  March 26, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/03/Uniswap-Grants-Program-Shield-Small.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1917",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko: Kiln testnet transition to PoS successful, some implementation issues, more testing needed including devnets and live network shadow forks EIP4895 push withdrawals as operations selected for Shanghai EIP4844 data blob transaction type update Proposal to harmonize Core EIP process",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-19-2022/",
-          "publishedOn": "2022-03-19T02:47:52.000Z",
-          "wordCount": 1676,
-          "title": "Week in Ethereum News  March 19, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/03/Uniswap-Grants-Program-Shield-Small.png"
         }
       ]
     }
