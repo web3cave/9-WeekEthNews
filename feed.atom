@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T06:19:06.350Z</id>
+    <id>urn:2022-04-25T06:21:11.980Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-24T06:19:06.350Z</updated>
+    <updated>2022-04-25T06:21:11.980Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-2-2022/"/>
         <updated>2022-04-02T03:01:23.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko & Christine Kim: shadow fork merge testing finds RAM & timeout issues  difficulty bomb will need to be delayed if public testnet upgrades to PoS are not started by late April Shanghai upgrade planning: append withdrawals in block headers,]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  March 26, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1920</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-26-2022/"/>
-        <updated>2022-03-26T03:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Tim Beiko’s core devs update: merge testing, difficulty bomb can be pushed back as needed, Shanghai update proposed features, executable spec for execution layer and token compensation for client devs & researchers ethereumjs/client v0.4.0: Kiln v2 support Proof of Stake consensus layer Danny Ryan’s Finalized PoS update: help]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
