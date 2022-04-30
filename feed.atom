@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T06:20:03.885Z</id>
+    <id>urn:2022-04-30T06:19:11.938Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-29T06:20:03.885Z</updated>
+    <updated>2022-04-30T06:19:11.938Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  April 30, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1935</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-30-2022/"/>
+        <updated>2022-04-30T02:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko & Christine Kim: Focus on 2 more mainnet shadow forks, clients passing hive tests & fixing outstanding bugs Difficulty bomb not delayed, review in two weeks Testnets post-merge are Goerli & Sepolia, plan to deprecate Rinkeby & Ropsten but]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  April 23, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1932</id>

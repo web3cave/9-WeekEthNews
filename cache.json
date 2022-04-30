@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1935",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko & Christine Kim: Focus on 2 more mainnet shadow forks, clients passing hive tests & fixing outstanding bugs Difficulty bomb not delayed, review in two weeks Testnets post-merge are Goerli & Sepolia, plan to deprecate Rinkeby & Ropsten but",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-30-2022/",
+          "publishedOn": "2022-04-30T02:10:21.000Z",
+          "wordCount": 1372,
+          "title": "Week in Ethereum News  April 30, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1932",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Mainnet execution layer Erigon v20220402-alpha: adds support for the merge & upgrade 1 for Erigon v2; need to sync from scratch as alpha not compatible with beta database  Erigon architecture: components are separable and can run in same process Proof of Stake consensus layer $350k staking quadratic funding round to fund",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-23-2022/",
           "publishedOn": "2022-04-23T01:01:00.000Z",
-          "wordCount": 1408,
+          "wordCount": 1410,
           "title": "Week in Ethereum News  April 23, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1930",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-04-16T01:41:16.000Z",
           "wordCount": 1367,
           "title": "Week in Ethereum News  April 16, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1928",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-04-09T03:12:11.000Z",
           "wordCount": 1465,
           "title": "Week in Ethereum News  April 9, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1926",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-04-02T03:01:23.000Z",
           "wordCount": 1494,
           "title": "Week in Ethereum News  April 2, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         }
       ]
     }
