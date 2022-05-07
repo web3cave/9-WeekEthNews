@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T06:21:45.875Z</id>
+    <id>urn:2022-05-07T06:19:24.719Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-06T06:21:45.875Z</updated>
+    <updated>2022-05-07T06:19:24.719Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  May 7, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1937</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-may-7-2022/"/>
+        <updated>2022-05-07T00:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Tim Beiko’s core devs update on final tasks before the Merge: a few mainnet shadow forks without issues  clients passing test suites  smooth upgrades on public testnets Mainnet shadow fork 3 had no major issues Mainnet shadow fork 4 planned for May 12 Resource list for]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  April 30, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1935</id>
