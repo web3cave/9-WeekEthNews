@@ -44,16 +44,6 @@
           "wordCount": 1367,
           "title": "Week in Ethereum News  April 16, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1928",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Mainnet execution layer Erigon stabilizing alpha version with merge support, full sync required as DB layout not compatible with beta version Verkle tree Condrieu testnet relaunched twice for continued stress-testing Predicting access lists to reduce state retrieval time for Portal network clients  Proof of Stake consensus layer PoS implementers call video.",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-9-2022/",
-          "publishedOn": "2022-04-09T03:12:11.000Z",
-          "wordCount": 1465,
-          "title": "Week in Ethereum News  April 9, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }
