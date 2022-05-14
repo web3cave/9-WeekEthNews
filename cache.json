@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1947",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PoW switch off (the Merge) Ropsten testnet upgrade to PoS estimated for June 8 (Terminal Total Difficulty 43531756765713534) Mainnet-shadow-fork-4 merge looked perfect, Erigon had unrelated sync issues Mainnet-shadow-fork-5 merge on May 19, equal validator split across execution & consensus layer clients Staking safely post-Merge requires client diversity for both consensus &",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-14-2022/",
+          "publishedOn": "2022-05-14T02:55:35.000Z",
+          "wordCount": 1456,
+          "title": "Week in Ethereum News  May 14, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-13-19-34-00.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1937",
           "author": "Andrew Coathup",
           "description": "Eth News and Links PoW switch off (the Merge) Tim Beiko’s core devs update on final tasks before the Merge: a few mainnet shadow forks without issues  clients passing test suites  smooth upgrades on public testnets Mainnet shadow fork 3 had no major issues Mainnet shadow fork 4 planned for May 12 Resource list for",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-7-2022/",
           "publishedOn": "2022-05-07T00:46:35.000Z",
-          "wordCount": 1368,
+          "wordCount": 1370,
           "title": "Week in Ethereum News  May 7, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-13-19-34-00.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1935",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-04-30T02:10:21.000Z",
           "wordCount": 1374,
           "title": "Week in Ethereum News  April 30, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-13-19-34-00.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1932",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-04-23T01:01:00.000Z",
           "wordCount": 1410,
           "title": "Week in Ethereum News  April 23, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-13-19-34-00.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1930",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-04-16T01:41:16.000Z",
           "wordCount": 1367,
           "title": "Week in Ethereum News  April 16, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-13-19-34-00.png"
         }
       ]
     }
