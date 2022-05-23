@@ -44,16 +44,6 @@
           "wordCount": 1374,
           "title": "Week in Ethereum News  April 30, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1932",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Mainnet execution layer Erigon v20220402-alpha: adds support for the merge & upgrade 1 for Erigon v2; need to sync from scratch as alpha not compatible with beta database  Erigon architecture: components are separable and can run in same process Proof of Stake consensus layer $350k staking quadratic funding round to fund",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-23-2022/",
-          "publishedOn": "2022-04-23T01:01:00.000Z",
-          "wordCount": 1410,
-          "title": "Week in Ethereum News  April 23, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         }
       ]
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-22T06:19:30.261Z</id>
+    <id>urn:2022-05-23T06:22:20.737Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-22T06:19:30.261Z</updated>
+    <updated>2022-05-23T06:22:20.737Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-30-2022/"/>
         <updated>2022-04-30T02:10:21.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Latest core devs call video. Notes from Tim Beiko & Christine Kim: Focus on 2 more mainnet shadow forks, clients passing hive tests & fixing outstanding bugs Difficulty bomb not delayed, review in two weeks Testnets post-merge are Goerli & Sepolia, plan to deprecate Rinkeby & Ropsten but]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  April 23, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1932</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-23-2022/"/>
-        <updated>2022-04-23T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Mainnet execution layer Erigon v20220402-alpha: adds support for the merge & upgrade 1 for Erigon v2; need to sync from scratch as alpha not compatible with beta database  Erigon architecture: components are separable and can run in same process Proof of Stake consensus layer $350k staking quadratic funding round to fund]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
