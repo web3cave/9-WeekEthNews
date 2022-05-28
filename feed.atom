@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T06:21:08.140Z</id>
+    <id>urn:2022-05-28T06:20:02.954Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T06:21:08.140Z</updated>
+    <updated>2022-05-28T06:20:02.954Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  May 28, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1952</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-may-28-2022/"/>
+        <updated>2022-05-28T01:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-6 transition to PoS on May 31 Ropsten testnet reached Terminal Total Difficulty (TTD) before Ropsten beacon chain genesis: miner added hash rate & lowered gas limit in malicious stress test TTD being overridden to very large value to prevent merge override TTD after Ropsten beacon]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  May 21, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1950</id>

@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1952",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-6 transition to PoS on May 31 Ropsten testnet reached Terminal Total Difficulty (TTD) before Ropsten beacon chain genesis: miner added hash rate & lowered gas limit in malicious stress test TTD being overridden to very large value to prevent merge override TTD after Ropsten beacon",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-28-2022/",
+          "publishedOn": "2022-05-28T01:42:12.000Z",
+          "wordCount": 1391,
+          "title": "Week in Ethereum News  May 28, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1950",
           "author": "Andrew Coathup",
           "description": "Eth News and Links PoW switch off (the Merge) Client bug bounties now $250k, doubles to $500k for merge upgrades live on public testnets & targeted for mainnet Mainnet-shadow-fork-5 went exceedingly well, equal split of execution & consensus layer clients Ropsten beacon chain genesis May 30, with merge targeted around June 8 Help test the",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-21-2022/",
           "publishedOn": "2022-05-21T02:21:12.000Z",
-          "wordCount": 1355,
+          "wordCount": 1357,
           "title": "Week in Ethereum News  May 21, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1947",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-05-14T02:55:35.000Z",
           "wordCount": 1458,
           "title": "Week in Ethereum News  May 14, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1937",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-05-07T00:46:35.000Z",
           "wordCount": 1370,
           "title": "Week in Ethereum News  May 7, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1935",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-04-30T02:10:21.000Z",
           "wordCount": 1374,
           "title": "Week in Ethereum News  April 30, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         }
       ]
     }
