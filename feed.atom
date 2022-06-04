@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T06:19:11.582Z</id>
+    <id>urn:2022-06-04T06:17:23.973Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T06:19:11.582Z</updated>
+    <updated>2022-06-04T06:17:23.974Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  June 4, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1956</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-4-2022/"/>
+        <updated>2022-06-04T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Ropsten testnet is ready to turn off PoW forever with TTD set Tool to predict TTD arrival Stakers/nodes must manually override TTD in latest client release Manual override is useful practice in case of miner hijinx on mainnet Guides on running Ropsten nodes or specifically a]]></summary>
+        <author>
+            <name>evanvanness</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  May 28, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1952</id>
