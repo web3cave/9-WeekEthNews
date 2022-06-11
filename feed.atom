@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T06:18:44.673Z</id>
+    <id>urn:2022-06-11T06:17:54.557Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T06:18:44.673Z</updated>
+    <updated>2022-06-11T06:17:54.557Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  June 11, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1965</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-11-2022/"/>
+        <updated>2022-06-11T01:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Ropsten testnet merge a major success: ~99% participation & proposal rates after config fixes & reboots some client pairs proposing empty blocks Latest core devs call video. Notes from Tim Beiko: Testnets: Sepolia merge in 3 weeks, Goerli merge in 6 weeks Difficulty bomb to be]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  June 4, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1956</id>
