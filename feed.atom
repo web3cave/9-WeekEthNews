@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-12T06:18:54.587Z</id>
+    <id>urn:2022-06-13T06:21:07.557Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-12T06:18:54.587Z</updated>
+    <updated>2022-06-13T06:21:07.557Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-may-21-2022/"/>
         <updated>2022-05-21T02:21:12.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Client bug bounties now $250k, doubles to $500k for merge upgrades live on public testnets & targeted for mainnet Mainnet-shadow-fork-5 went exceedingly well, equal split of execution & consensus layer clients Ropsten beacon chain genesis May 30, with merge targeted around June 8 Help test the]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  May 14, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1947</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-may-14-2022/"/>
-        <updated>2022-05-14T02:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Ropsten testnet upgrade to PoS estimated for June 8 (Terminal Total Difficulty 43531756765713534) Mainnet-shadow-fork-4 merge looked perfect, Erigon had unrelated sync issues Mainnet-shadow-fork-5 merge on May 19, equal validator split across execution & consensus layer clients Staking safely post-Merge requires client diversity for both consensus &]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

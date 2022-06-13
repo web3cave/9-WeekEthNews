@@ -11,7 +11,7 @@
           "description": "Eth News and Links PoW switch off (the Merge) Ropsten testnet merge a major success: ~99% participation & proposal rates after config fixes & reboots some client pairs proposing empty blocks Latest core devs call video. Notes from Tim Beiko: Testnets: Sepolia merge in 3 weeks, Goerli merge in 6 weeks Difficulty bomb to be",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-11-2022/",
           "publishedOn": "2022-06-11T01:33:45.000Z",
-          "wordCount": 1262,
+          "wordCount": 1265,
           "title": "Week in Ethereum News  June 11, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/06/karma-logo-green-square.png"
         },
@@ -43,16 +43,6 @@
           "publishedOn": "2022-05-21T02:21:12.000Z",
           "wordCount": 1357,
           "title": "Week in Ethereum News  May 21, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/06/karma-logo-green-square.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1947",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links PoW switch off (the Merge) Ropsten testnet upgrade to PoS estimated for June 8 (Terminal Total Difficulty 43531756765713534) Mainnet-shadow-fork-4 merge looked perfect, Erigon had unrelated sync issues Mainnet-shadow-fork-5 merge on May 19, equal validator split across execution & consensus layer clients Staking safely post-Merge requires client diversity for both consensus &",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-14-2022/",
-          "publishedOn": "2022-05-14T02:55:35.000Z",
-          "wordCount": 1458,
-          "title": "Week in Ethereum News  May 14, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/06/karma-logo-green-square.png"
         }
       ]
