@@ -11,9 +11,9 @@
           "description": "Eth News and Links PoW switch off (the Merge) Merge readiness checklist for solo stakers & staking providers Mainnet-shadow-fork-7 merges June 22, equal client split, test fixes deployed on Ropsten Sepolia testnet permissioned beacon chain genesis June 20 Mainnet execution layer Gray Glacier upgrade on block 15,050,000 (around June 29) to delay difficulty bomb by",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-18-2022/",
           "publishedOn": "2022-06-18T01:55:51.000Z",
-          "wordCount": 1468,
+          "wordCount": 1776,
           "title": "Week in Ethereum News  June 18, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1965",
@@ -21,9 +21,9 @@
           "description": "Eth News and Links PoW switch off (the Merge) Ropsten testnet merge a major success: ~99% participation & proposal rates after config fixes & reboots some client pairs proposing empty blocks Latest core devs call video. Notes from Tim Beiko: Testnets: Sepolia merge in 3 weeks, Goerli merge in 6 weeks Difficulty bomb to be",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-11-2022/",
           "publishedOn": "2022-06-11T01:33:45.000Z",
-          "wordCount": 1267,
+          "wordCount": 1575,
           "title": "Week in Ethereum News  June 11, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1956",
@@ -31,9 +31,9 @@
           "description": "Eth News and Links PoW switch off (the Merge) Ropsten testnet is ready to turn off PoW forever with TTD set Tool to predict TTD arrival Stakers/nodes must manually override TTD in latest client release Manual override is useful practice in case of miner hijinx on mainnet Guides on running Ropsten nodes or specifically a",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-4-2022/",
           "publishedOn": "2022-06-04T00:46:00.000Z",
-          "wordCount": 1283,
+          "wordCount": 1591,
           "title": "Week in Ethereum News  June 4, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1952",
@@ -41,9 +41,9 @@
           "description": "Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-6 transition to PoS on May 31 Ropsten testnet reached Terminal Total Difficulty (TTD) before Ropsten beacon chain genesis: miner added hash rate & lowered gas limit in malicious stress test TTD being overridden to very large value to prevent merge override TTD after Ropsten beacon",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-28-2022/",
           "publishedOn": "2022-05-28T01:42:12.000Z",
-          "wordCount": 1393,
+          "wordCount": 1701,
           "title": "Week in Ethereum News  May 28, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1950",
@@ -51,12 +51,12 @@
           "description": "Eth News and Links PoW switch off (the Merge) Client bug bounties now $250k, doubles to $500k for merge upgrades live on public testnets & targeted for mainnet Mainnet-shadow-fork-5 went exceedingly well, equal split of execution & consensus layer clients Ropsten beacon chain genesis May 30, with merge targeted around June 8 Help test the",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-21-2022/",
           "publishedOn": "2022-05-21T02:21:12.000Z",
-          "wordCount": 1357,
+          "wordCount": 1665,
           "title": "Week in Ethereum News  May 21, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
