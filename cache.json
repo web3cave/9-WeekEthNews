@@ -13,7 +13,7 @@
           "publishedOn": "2022-06-18T01:55:51.000Z",
           "wordCount": 1776,
           "title": "Week in Ethereum News  June 18, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1965",
@@ -23,7 +23,7 @@
           "publishedOn": "2022-06-11T01:33:45.000Z",
           "wordCount": 1575,
           "title": "Week in Ethereum News  June 11, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1956",
@@ -33,7 +33,7 @@
           "publishedOn": "2022-06-04T00:46:00.000Z",
           "wordCount": 1591,
           "title": "Week in Ethereum News  June 4, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1952",
@@ -43,10 +43,10 @@
           "publishedOn": "2022-05-28T01:42:12.000Z",
           "wordCount": 1701,
           "title": "Week in Ethereum News  May 28, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2019/01/eth.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
