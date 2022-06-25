@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1972",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-7 merged with caveats: known Besu concurrency issue and Erigon issue with shadow forks Mainnet execution layer Update your nodes for Gray Glacier upgrade Latest core devs call video. Notes from Tim Beiko and Christine Kim: Sepolia testnet merge planned for July 6 Mainnet shadow fork",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-25-2022/",
+          "publishedOn": "2022-06-25T01:47:01.000Z",
+          "wordCount": 1573,
+          "title": "Week in Ethereum News  June 25, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1970",
           "author": "Andrew Coathup",
           "description": "Eth News and Links PoW switch off (the Merge) Merge readiness checklist for solo stakers & staking providers Mainnet-shadow-fork-7 merges June 22, equal client split, test fixes deployed on Ropsten Sepolia testnet permissioned beacon chain genesis June 20 Mainnet execution layer Gray Glacier upgrade on block 15,050,000 (around June 29) to delay difficulty bomb by",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-18-2022/",
           "publishedOn": "2022-06-18T01:55:51.000Z",
-          "wordCount": 1776,
+          "wordCount": 1778,
           "title": "Week in Ethereum News  June 18, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1965",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-06-11T01:33:45.000Z",
           "wordCount": 1575,
           "title": "Week in Ethereum News  June 11, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1956",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-06-04T00:46:00.000Z",
           "wordCount": 1591,
           "title": "Week in Ethereum News  June 4, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1952",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-05-28T01:42:12.000Z",
           "wordCount": 1701,
           "title": "Week in Ethereum News  May 28, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         }
       ]
     }
