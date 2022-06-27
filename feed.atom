@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T06:17:49.357Z</id>
+    <id>urn:2022-06-27T06:22:56.970Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-26T06:17:49.357Z</updated>
+    <updated>2022-06-27T06:22:56.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Ropsten testnet is ready to turn off PoW forever with TTD set Tool to predict TTD arrival Stakers/nodes must manually override TTD in latest client release Manual override is useful practice in case of miner hijinx on mainnet Guides on running Ropsten nodes or specifically a]]></summary>
         <author>
             <name>evanvanness</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  May 28, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1952</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-may-28-2022/"/>
-        <updated>2022-05-28T01:42:12.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-6 transition to PoS on May 31 Ropsten testnet reached Terminal Total Difficulty (TTD) before Ropsten beacon chain genesis: miner added hash rate & lowered gas limit in malicious stress test TTD being overridden to very large value to prevent merge override TTD after Ropsten beacon]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
         </author>
     </entry>
 </feed>
