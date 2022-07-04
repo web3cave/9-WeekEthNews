@@ -44,16 +44,6 @@
           "wordCount": 1575,
           "title": "Week in Ethereum News  June 11, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1956",
-          "author": "evanvanness",
-          "description": "Eth News and Links PoW switch off (the Merge) Ropsten testnet is ready to turn off PoW forever with TTD set Tool to predict TTD arrival Stakers/nodes must manually override TTD in latest client release Manual override is useful practice in case of miner hijinx on mainnet Guides on running Ropsten nodes or specifically a",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-4-2022/",
-          "publishedOn": "2022-06-04T00:46:00.000Z",
-          "wordCount": 1591,
-          "title": "Week in Ethereum News  June 4, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }
