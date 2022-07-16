@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T06:19:14.269Z</id>
+    <id>urn:2022-07-16T06:18:30.601Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T06:19:14.269Z</updated>
+    <updated>2022-07-16T06:18:30.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  July 16, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1979</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-16-2022/"/>
+        <updated>2022-07-16T00:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Tentative Merge timeline to turn off PoW in mid to late September:  Goerli testnet August 11 Pick mainnet TTD in mid-August assuming Goerli successfully merges Mainnet merge lightly penciled in for week of September 19 PoS implementers call video. Notes from Ben Edgington and Christine Kim:]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  July 9, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1976</id>
