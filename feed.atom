@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-17T06:18:45.551Z</id>
+    <id>urn:2022-07-18T06:21:26.838Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-17T06:18:45.551Z</updated>
+    <updated>2022-07-18T06:21:26.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-25-2022/"/>
         <updated>2022-06-25T01:47:01.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-7 merged with caveats: known Besu concurrency issue and Erigon issue with shadow forks Mainnet execution layer Update your nodes for Gray Glacier upgrade Latest core devs call video. Notes from Tim Beiko and Christine Kim: Sepolia testnet merge planned for July 6 Mainnet shadow fork]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  June 18, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1970</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-18-2022/"/>
-        <updated>2022-06-18T01:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Merge readiness checklist for solo stakers & staking providers Mainnet-shadow-fork-7 merges June 22, equal client split, test fixes deployed on Ropsten Sepolia testnet permissioned beacon chain genesis June 20 Mainnet execution layer Gray Glacier upgrade on block 15,050,000 (around June 29) to delay difficulty bomb by]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
