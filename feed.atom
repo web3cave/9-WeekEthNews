@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T06:21:45.113Z</id>
+    <id>urn:2022-07-23T06:19:15.886Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-22T06:21:45.113Z</updated>
+    <updated>2022-07-23T06:19:15.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  July 23, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1981</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-23-2022/"/>
+        <updated>2022-07-23T01:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Goerli is the final testnet to merge before mainnet, TTD expected August 9-11 Goerli-shadow-fork-5 merged successfully Mainnet-shadow-fork-10 merges July 28 Mainnet execution layer Latest core devs call video. Notes from Tim Beiko and Christine Kim: Node operators need to run both execution & consensus layer clients]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  July 16, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1979</id>

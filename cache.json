@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1981",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PoW switch off (the Merge) Goerli is the final testnet to merge before mainnet, TTD expected August 9-11 Goerli-shadow-fork-5 merged successfully Mainnet-shadow-fork-10 merges July 28 Mainnet execution layer Latest core devs call video. Notes from Tim Beiko and Christine Kim: Node operators need to run both execution & consensus layer clients",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-23-2022/",
+          "publishedOn": "2022-07-23T01:41:12.000Z",
+          "wordCount": 1624,
+          "title": "Week in Ethereum News  July 23, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1979",
           "author": "Andrew Coathup",
           "description": "Eth News and Links PoW switch off (the Merge) Tentative Merge timeline to turn off PoW in mid to late September:  Goerli testnet August 11 Pick mainnet TTD in mid-August assuming Goerli successfully merges Mainnet merge lightly penciled in for week of September 19 PoS implementers call video. Notes from Ben Edgington and Christine Kim:",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-16-2022/",
           "publishedOn": "2022-07-16T00:21:04.000Z",
-          "wordCount": 1562,
+          "wordCount": 1564,
           "title": "Week in Ethereum News  July 16, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1976",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-07-09T00:04:27.000Z",
           "wordCount": 1659,
           "title": "Week in Ethereum News  July 9, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1974",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-07-02T02:40:47.000Z",
           "wordCount": 1690,
           "title": "Week in Ethereum News  July 2, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1972",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-06-25T01:47:01.000Z",
           "wordCount": 1575,
           "title": "Week in Ethereum News  June 25, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         }
       ]
     }
