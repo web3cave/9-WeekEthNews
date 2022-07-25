@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T06:19:09.944Z</id>
+    <id>urn:2022-07-25T06:20:59.314Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-24T06:19:09.944Z</updated>
+    <updated>2022-07-25T06:20:59.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-2-2022/"/>
         <updated>2022-07-02T02:40:47.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) The second of three public testnets to merge will occur next week, with Sepolia to turn off PoW forever sometime between Saturday and Wednesday, depending on hashpower Mainnet-shadow-fork-8 merges July 5 Mainnet execution layer Gray Glacier upgrade (delay difficulty bomb) successful; One block on wrong chain,]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  June 25, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1972</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-25-2022/"/>
-        <updated>2022-06-25T01:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-7 merged with caveats: known Besu concurrency issue and Erigon issue with shadow forks Mainnet execution layer Update your nodes for Gray Glacier upgrade Latest core devs call video. Notes from Tim Beiko and Christine Kim: Sepolia testnet merge planned for July 6 Mainnet shadow fork]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

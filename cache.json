@@ -44,16 +44,6 @@
           "wordCount": 1690,
           "title": "Week in Ethereum News  July 2, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1972",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links PoW switch off (the Merge) Mainnet-shadow-fork-7 merged with caveats: known Besu concurrency issue and Erigon issue with shadow forks Mainnet execution layer Update your nodes for Gray Glacier upgrade Latest core devs call video. Notes from Tim Beiko and Christine Kim: Sepolia testnet merge planned for July 6 Mainnet shadow fork",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-25-2022/",
-          "publishedOn": "2022-06-25T01:47:01.000Z",
-          "wordCount": 1575,
-          "title": "Week in Ethereum News  June 25, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/04/Screenshot-from-2022-04-01-16-05-50.png"
         }
       ]
     }
