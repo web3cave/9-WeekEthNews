@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=1989",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PoW switch off (the Merge) Mainnet Merge TTD & Bellatrix epoch to be set next week on the consensus layer call assuming Goerli merge goes well, Merge TTD will be updated on next core devs call if 5GB DAG size causes a big drop in hashrate Goerli testnet merge: Beacon chain",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-august-6-2022/",
+          "publishedOn": "2022-08-06T01:53:10.000Z",
+          "wordCount": 1723,
+          "title": "Week in Ethereum News  August 6, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1986",
           "author": "Andrew Coathup",
           "description": "Eth News and Links PoW switch off (the Merge) Goerli Merge announcement, the final testnet to merge, update your nodes, last chance to practice going through the Merge before mainnet: Goerli beacon chain (Prater) Bellatrix upgrade at epoch 112260 (August 4 12:24PM UTC) Merge Terminal Total Difficulty (TTD) set to 10,790,000 (August 6-12) Execution layer",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-30-2022/",
           "publishedOn": "2022-07-30T01:31:23.000Z",
-          "wordCount": 1640,
+          "wordCount": 1642,
           "title": "Week in Ethereum News  July 30, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1981",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-07-23T01:41:12.000Z",
           "wordCount": 1626,
           "title": "Week in Ethereum News  July 23, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1979",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-07-16T00:21:04.000Z",
           "wordCount": 1564,
           "title": "Week in Ethereum News  July 16, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1976",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-07-09T00:04:27.000Z",
           "wordCount": 1659,
           "title": "Week in Ethereum News  July 9, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         }
       ]
     }
