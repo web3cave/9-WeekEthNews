@@ -44,16 +44,6 @@
           "wordCount": 1564,
           "title": "Week in Ethereum News  July 16, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1976",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links PoW switch off (the Merge) Sepolia testnet merged successfully: TTD config issue specific to PoW testnets Mainnet-shadow-fork-8 merged successfully Mainnet-shadow-fork-9 merges July 14, plan to test MEV-boost Mainnet execution layer Tim Beiko’s core devs update: stakers prepare for merge, block times back to ~13s after Gray Glacier upgrade, testnets being deprecated",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-9-2022/",
-          "publishedOn": "2022-07-09T00:04:27.000Z",
-          "wordCount": 1659,
-          "title": "Week in Ethereum News  July 9, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         }
       ]
     }

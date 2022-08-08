@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-07T06:19:01.351Z</id>
+    <id>urn:2022-08-08T06:22:07.316Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-07T06:19:01.351Z</updated>
+    <updated>2022-08-08T06:22:07.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-16-2022/"/>
         <updated>2022-07-16T00:21:04.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Tentative Merge timeline to turn off PoW in mid to late September:  Goerli testnet August 11 Pick mainnet TTD in mid-August assuming Goerli successfully merges Mainnet merge lightly penciled in for week of September 19 PoS implementers call video. Notes from Ben Edgington and Christine Kim:]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  July 9, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1976</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-9-2022/"/>
-        <updated>2022-07-09T00:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Sepolia testnet merged successfully: TTD config issue specific to PoW testnets Mainnet-shadow-fork-8 merged successfully Mainnet-shadow-fork-9 merges July 14, plan to test MEV-boost Mainnet execution layer Tim Beiko’s core devs update: stakers prepare for merge, block times back to ~13s after Gray Glacier upgrade, testnets being deprecated]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
