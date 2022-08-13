@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T06:19:53.123Z</id>
+    <id>urn:2022-08-13T06:18:50.655Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-12T06:19:53.123Z</updated>
+    <updated>2022-08-13T06:18:50.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  August 13, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=1991</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-13-2022/"/>
+        <updated>2022-08-13T02:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Mainnet Merge targets September 15, tentative TTD: 58750000000000000000000 TTD to be reconfirmed on next weeks core devs call, 5GB DAG size not expected to cause big drop in hash rate Bellatrix upgrade at epoch: 144896 September 6 11:34:47am UTC Bordel predicts mainnet Merge September 15 Client]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  August 6, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=1989</id>
