@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-28T06:19:13.315Z</id>
+    <id>urn:2022-08-29T06:46:03.788Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-28T06:19:13.315Z</updated>
+    <updated>2022-08-29T06:46:03.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-6-2022/"/>
         <updated>2022-08-06T01:53:10.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Mainnet Merge TTD & Bellatrix epoch to be set next week on the consensus layer call assuming Goerli merge goes well, Merge TTD will be updated on next core devs call if 5GB DAG size causes a big drop in hashrate Goerli testnet merge: Beacon chain]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  July 30, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=1986</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-30-2022/"/>
-        <updated>2022-07-30T01:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Goerli Merge announcement, the final testnet to merge, update your nodes, last chance to practice going through the Merge before mainnet: Goerli beacon chain (Prater) Bellatrix upgrade at epoch 112260 (August 4 12:24PM UTC) Merge Terminal Total Difficulty (TTD) set to 10,790,000 (August 6-12) Execution layer]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
