@@ -44,16 +44,6 @@
           "wordCount": 1607,
           "title": "Week in Ethereum News  August 13, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1989",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links PoW switch off (the Merge) Mainnet Merge TTD & Bellatrix epoch to be set next week on the consensus layer call assuming Goerli merge goes well, Merge TTD will be updated on next core devs call if 5GB DAG size causes a big drop in hashrate Goerli testnet merge: Beacon chain",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-august-6-2022/",
-          "publishedOn": "2022-08-06T01:53:10.000Z",
-          "wordCount": 1725,
-          "title": "Week in Ethereum News  August 6, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         }
       ]
     }
