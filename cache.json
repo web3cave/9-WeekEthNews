@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2002",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PoW switch off (the Merge) Countdown to the Merge: TTD predicted September 14 by Bordel & 797 Reminder: stakers must run an execution layer client Beacon chain upgraded to Bellatrix, 5% drop in participation almost recovered mainnet-shadow-fork-13 merged successfully, last shadow fork before the Merge Stay up to date on the",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-10-2022/",
+          "publishedOn": "2022-09-10T02:30:35.000Z",
+          "wordCount": 1715,
+          "title": "Week in Ethereum News  September 10, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=1999",
           "author": "Andrew Coathup",
           "description": "Eth News and Links PoW switch off (the Merge) Reminder: Update your clients before Bellatrix on September 6 Check you are running Merge-ready releases with the latest bug fixes Merge TTD predicted September 14 by 797 & September 15 by Bordel; The difference is due to Bordel using a bigger timespan for data so is",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-3-2022/",
           "publishedOn": "2022-09-03T02:22:31.000Z",
-          "wordCount": 1712,
+          "wordCount": 1714,
           "title": "Week in Ethereum News  September 3, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1997",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-08-27T02:00:36.000Z",
           "wordCount": 1662,
           "title": "Week in Ethereum News  August 27, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1994",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-08-20T01:43:44.000Z",
           "wordCount": 1722,
           "title": "Week in Ethereum News  August 20, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=1991",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-08-13T02:03:06.000Z",
           "wordCount": 1607,
           "title": "Week in Ethereum News  August 13, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         }
       ]
     }
