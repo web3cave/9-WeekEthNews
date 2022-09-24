@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T06:45:17.339Z</id>
+    <id>urn:2022-09-24T06:25:46.537Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-23T06:45:17.339Z</updated>
+    <updated>2022-09-24T06:25:46.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  September 24, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2009</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-september-24-2022/"/>
+        <updated>2022-09-24T01:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Execution layer Candidate EIPs for the next upgrade (Shanghai) Erigon roadmap: alpha/beta designations dropped Besu v22.7.3: fixes for empty block proposals and improvements for missed attestations Erigon v2022.09.03: improves sync stability Verkle transition prototyped using Erigon at ETHBerlin Microsoft research claims 6x EVM execution speed improvement with Forerunner speculative transaction execution]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  September 17, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2005</id>
