@@ -44,16 +44,6 @@
           "wordCount": 1714,
           "title": "Week in Ethereum News  September 3, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=1997",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links PoW switch off (the Merge) Merge-ready execution client releases, update your nodes: Besu v22.7.1 Erigon v2022.08.02-alpha Geth v1.10.23 (fix for pruning issue in v1.10.22) Nethermind v1.14.0 Merge-ready consensus client releases: Lighthouse v3.0.0 Lodestar v1.0.0 Nimbus v22.8.0 Prysm v3.0.0 Teku v22.8.1 ethereum.org Merge announcement: 4x multiplier on Merge vulnerability bounties until September",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-august-27-2022/",
-          "publishedOn": "2022-08-27T02:00:36.000Z",
-          "wordCount": 1662,
-          "title": "Week in Ethereum News  August 27, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }
