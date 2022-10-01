@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T06:49:52.479Z</id>
+    <id>urn:2022-10-01T06:35:04.787Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T06:49:52.479Z</updated>
+    <updated>2022-10-01T06:35:04.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  October 1, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2011</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-1-2022/"/>
+        <updated>2022-10-01T01:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Execution layer Besu v22.7.4: fix for memory leak EIP4844 (proto-danksharding) call video, notes and readiness checklist Consensus layer Lighthouse v3.1.2: optional payload pruning to reduce execution node timeouts and optimizations to attestation & block processing bloXroute’s ethical MEV-Boost relayer produced invalid blocks Danny Ryan’s notes on not coupling Beacon blocks &]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  September 24, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2009</id>
