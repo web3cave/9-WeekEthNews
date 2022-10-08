@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2014",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Execution layer Account abstraction via ERC4337 + EIP3074 + EIP5003 + transaction inclusion lists EIP4844 (proto-danksharding): arithmetic hash alternatives to KZG are possible but with a lot of tradeoffs Besu v22.7.5: fix for empty block proposals & RPC defect Erigon v2.27.0: experimental embedded consensus layer client, change to semantic versioning Nethermind",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-8-2022/",
+          "publishedOn": "2022-10-07T23:18:11.000Z",
+          "wordCount": 1649,
+          "title": "Week in Ethereum News  October 8, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2011",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Execution layer Besu v22.7.4: fix for memory leak EIP4844 (proto-danksharding) call video, notes and readiness checklist Consensus layer Lighthouse v3.1.2: optional payload pruning to reduce execution node timeouts and optimizations to attestation & block processing bloXroute’s ethical MEV-Boost relayer produced invalid blocks Danny Ryan’s notes on not coupling Beacon blocks &",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-1-2022/",
           "publishedOn": "2022-10-01T01:27:01.000Z",
-          "wordCount": 1514,
+          "wordCount": 1516,
           "title": "Week in Ethereum News  October 1, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2009",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-09-24T01:03:57.000Z",
           "wordCount": 1667,
           "title": "Week in Ethereum News  September 24, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2005",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-09-17T03:13:19.000Z",
           "wordCount": 1594,
           "title": "Week in Ethereum News  September 17, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2002",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-09-10T02:30:35.000Z",
           "wordCount": 1717,
           "title": "Week in Ethereum News  September 10, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/07/nexus-mutual-sq.png"
         }
       ]
     }
