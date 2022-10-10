@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-09T06:25:58.595Z</id>
+    <id>urn:2022-10-10T06:45:59.176Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-09T06:25:58.595Z</updated>
+    <updated>2022-10-10T06:45:59.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-september-17-2022/"/>
         <updated>2022-09-17T03:13:19.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Ethereum now secured by Proof of Stake, Proof of Work is obsolete 12 second blocks post-merge Recap of ethresear.ch posts to get to the Merge and the panda meme back story Execution layer Latest core devs call video. Notes from Tim Beiko and Christine Kim: Merge]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  September 10, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=2002</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-september-10-2022/"/>
-        <updated>2022-09-10T02:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links PoW switch off (the Merge) Countdown to the Merge: TTD predicted September 14 by Bordel & 797 Reminder: stakers must run an execution layer client Beacon chain upgraded to Bellatrix, 5% drop in participation almost recovered mainnet-shadow-fork-13 merged successfully, last shadow fork before the Merge Stay up to date on the]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
