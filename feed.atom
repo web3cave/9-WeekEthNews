@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T06:35:46.288Z</id>
+    <id>urn:2022-10-22T06:27:43.495Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-21T06:35:46.288Z</updated>
+    <updated>2022-10-22T06:27:43.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  October 22, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2026</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-22-2022/"/>
+        <updated>2022-10-22T01:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Layer 1 Visualization of Tornado Cash transactions & MEV-Boost relays; guide to analyzing MEV-Boost Ideas for next MEV-Boost features EIP4844 proto-danksharding progress update: targeting Shanghai upgrade, network bandwidth testing will determine target blob sizes History of account abstraction Research Vitalik updated paths to single slot finality Client releases Execution layer: Besu v22.7.7: memory & CPU performance improvements, reduces]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  October 15, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2021</id>
