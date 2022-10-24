@@ -44,16 +44,6 @@
           "wordCount": 1516,
           "title": "Week in Ethereum News  October 1, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2009",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Execution layer Candidate EIPs for the next upgrade (Shanghai) Erigon roadmap: alpha/beta designations dropped Besu v22.7.3: fixes for empty block proposals and improvements for missed attestations Erigon v2022.09.03: improves sync stability Verkle transition prototyped using Erigon at ETHBerlin Microsoft research claims 6x EVM execution speed improvement with Forerunner speculative transaction execution",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-24-2022/",
-          "publishedOn": "2022-09-24T01:03:57.000Z",
-          "wordCount": 1667,
-          "title": "Week in Ethereum News  September 24, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         }
       ]
     }
