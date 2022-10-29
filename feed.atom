@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-28T06:22:15.416Z</id>
+    <id>urn:2022-10-29T06:21:04.483Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-28T06:22:15.416Z</updated>
+    <updated>2022-10-29T06:21:04.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  October 29, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2028</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-29-2022/"/>
+        <updated>2022-10-29T01:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Layer 1 Latest core devs call video. Notes from Tim Beiko & Christine Kim: Shanghai upgrade scope to be finalized over the next month, could be split into two upgrades Shanghai will include withdrawals + EIP3651 (warm COINBASE), EIP3855 (PUSH0) & EIP3860 (limit & meter initcode) EIP4844 (proto-danksharding) & EOF being]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  October 22, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2026</id>
