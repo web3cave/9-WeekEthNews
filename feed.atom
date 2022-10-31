@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-30T06:20:30.433Z</id>
+    <id>urn:2022-10-31T06:22:23.442Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-30T06:20:30.433Z</updated>
+    <updated>2022-10-31T06:22:23.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-8-2022/"/>
         <updated>2022-10-07T23:18:11.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Execution layer Account abstraction via ERC4337 + EIP3074 + EIP5003 + transaction inclusion lists EIP4844 (proto-danksharding): arithmetic hash alternatives to KZG are possible but with a lot of tradeoffs Besu v22.7.5: fix for empty block proposals & RPC defect Erigon v2.27.0: experimental embedded consensus layer client, change to semantic versioning Nethermind]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  October 1, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=2011</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-1-2022/"/>
-        <updated>2022-10-01T01:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Execution layer Besu v22.7.4: fix for memory leak EIP4844 (proto-danksharding) call video, notes and readiness checklist Consensus layer Lighthouse v3.1.2: optional payload pruning to reduce execution node timeouts and optimizations to attestation & block processing bloXroute’s ethical MEV-Boost relayer produced invalid blocks Danny Ryan’s notes on not coupling Beacon blocks &]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

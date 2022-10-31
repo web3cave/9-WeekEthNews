@@ -44,16 +44,6 @@
           "wordCount": 1651,
           "title": "Week in Ethereum News  October 8, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2011",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Execution layer Besu v22.7.4: fix for memory leak EIP4844 (proto-danksharding) call video, notes and readiness checklist Consensus layer Lighthouse v3.1.2: optional payload pruning to reduce execution node timeouts and optimizations to attestation & block processing bloXroute’s ethical MEV-Boost relayer produced invalid blocks Danny Ryan’s notes on not coupling Beacon blocks &",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-1-2022/",
-          "publishedOn": "2022-10-01T01:27:01.000Z",
-          "wordCount": 1516,
-          "title": "Week in Ethereum News  October 1, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         }
       ]
     }
