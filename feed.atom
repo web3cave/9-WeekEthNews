@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T06:21:29.439Z</id>
+    <id>urn:2022-11-05T06:19:57.755Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-04T06:21:29.439Z</updated>
+    <updated>2022-11-05T06:19:57.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  November 5, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2031</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-november-5-2022/"/>
+        <updated>2022-11-05T01:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Layer 1 Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: Full & partial withdrawals to be processed in a single queue-less pipeline EIP4844 (proto-danksharding) to be developed on top of withdrawals Block value to be added to EngineAPI to allow comparing MEV-Boost vs locally built blocks MEV-Boost]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  October 29, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2028</id>
