@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-06T06:19:40.918Z</id>
+    <id>urn:2022-11-07T06:21:04.457Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-06T06:19:40.918Z</updated>
+    <updated>2022-11-07T06:21:04.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-15-2022/"/>
         <updated>2022-10-15T01:33:41.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Execution layer Tim Beiko’s core devs update: Shanghai candidate EIPs, calls resume October 27 Besu v22.7.6: hotfix for v22.7.x failed block proposals Erigon v2.28.0: stability fixes & optimizations Shandong: pre-Shanghai upgrade testnet, Lodestar + Ethereum JS EL client Consensus layer Prysm developer Prysmatic Labs acquired by Offchain Labs (Arbitrum developer) Proposed]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  October 8, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=2014</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-8-2022/"/>
-        <updated>2022-10-07T23:18:11.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Execution layer Account abstraction via ERC4337 + EIP3074 + EIP5003 + transaction inclusion lists EIP4844 (proto-danksharding): arithmetic hash alternatives to KZG are possible but with a lot of tradeoffs Besu v22.7.5: fix for empty block proposals & RPC defect Erigon v2.27.0: experimental embedded consensus layer client, change to semantic versioning Nethermind]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

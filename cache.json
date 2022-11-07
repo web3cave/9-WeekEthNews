@@ -44,16 +44,6 @@
           "wordCount": 1551,
           "title": "Week in Ethereum News  October 15, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2014",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Execution layer Account abstraction via ERC4337 + EIP3074 + EIP5003 + transaction inclusion lists EIP4844 (proto-danksharding): arithmetic hash alternatives to KZG are possible but with a lot of tradeoffs Besu v22.7.5: fix for empty block proposals & RPC defect Erigon v2.27.0: experimental embedded consensus layer client, change to semantic versioning Nethermind",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-8-2022/",
-          "publishedOn": "2022-10-07T23:18:11.000Z",
-          "wordCount": 1651,
-          "title": "Week in Ethereum News  October 8, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }
