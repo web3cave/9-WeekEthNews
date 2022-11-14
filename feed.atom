@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-13T06:19:43.670Z</id>
+    <id>urn:2022-11-14T06:21:46.534Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-13T06:19:43.670Z</updated>
+    <updated>2022-11-14T06:21:46.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-22-2022/"/>
         <updated>2022-10-22T01:12:38.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Layer 1 Visualization of Tornado Cash transactions & MEV-Boost relays; guide to analyzing MEV-Boost Ideas for next MEV-Boost features EIP4844 proto-danksharding progress update: targeting Shanghai upgrade, network bandwidth testing will determine target blob sizes History of account abstraction Research Vitalik updated paths to single slot finality Client releases Execution layer: Besu v22.7.7: memory & CPU performance improvements, reduces]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  October 15, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=2021</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-15-2022/"/>
-        <updated>2022-10-15T01:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Execution layer Tim Beiko’s core devs update: Shanghai candidate EIPs, calls resume October 27 Besu v22.7.6: hotfix for v22.7.x failed block proposals Erigon v2.28.0: stability fixes & optimizations Shandong: pre-Shanghai upgrade testnet, Lodestar + Ethereum JS EL client Consensus layer Prysm developer Prysmatic Labs acquired by Offchain Labs (Arbitrum developer) Proposed]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
