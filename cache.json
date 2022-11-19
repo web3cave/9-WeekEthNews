@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2038",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Layer 1 EIP4844 (proto-danksharding) readiness checklist EVM Object Format (EOF) EIPs explainer Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: MEV-Boost update: Flashbots no longer top builder   Withdrawals: discussion on setting a bound to avoid sweeping the entire validator set EIP4844 blobs to be verified, will check",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-19-2022/",
+          "publishedOn": "2022-11-19T01:28:24.000Z",
+          "wordCount": 1583,
+          "title": "Week in Ethereum News  November 19, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2036",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Christine Kim: Shanghai upgrade planning, EIPs jostling to potentially be included along with withdrawals: EOF, EIP4844 (proto-danksharding), EIP4758 (deactivate SELFDESTRUCT), EIP1153 (transient storage) & EIP2537 (BLS12 precompile) Next call to focus on triage of Shanghai upgrade EIPs Users of SELFDESTRUCT need to",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-12-2022/",
           "publishedOn": "2022-11-12T03:10:07.000Z",
-          "wordCount": 1492,
+          "wordCount": 1494,
           "title": "Week in Ethereum News  November 12, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2031",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-11-05T01:46:26.000Z",
           "wordCount": 1564,
           "title": "Week in Ethereum News  November 5, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2028",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-10-29T01:21:51.000Z",
           "wordCount": 1629,
           "title": "Week in Ethereum News  October 29, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2026",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-10-22T01:12:38.000Z",
           "wordCount": 1409,
           "title": "Week in Ethereum News  October 22, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         }
       ]
     }
