@@ -44,16 +44,6 @@
           "wordCount": 1564,
           "title": "Week in Ethereum News  November 5, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2028",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Tim Beiko & Christine Kim: Shanghai upgrade scope to be finalized over the next month, could be split into two upgrades Shanghai will include withdrawals + EIP3651 (warm COINBASE), EIP3855 (PUSH0) & EIP3860 (limit & meter initcode) EIP4844 (proto-danksharding) & EOF being",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-29-2022/",
-          "publishedOn": "2022-10-29T01:21:51.000Z",
-          "wordCount": 1629,
-          "title": "Week in Ethereum News  October 29, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
         }
       ]
     }
