@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2043",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Layer 1 Discussion of upgrade naming schemes Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: EIP4844 is not in the same readiness as withdrawals, so is being worked on in parallel & specified separately from Capella upgrade, to not delay withdrawals EIP4844 implementer call notes: CL teams",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-3-2022/",
+          "publishedOn": "2022-12-03T02:35:21.000Z",
+          "wordCount": 1490,
+          "title": "Week in Ethereum News  December 3, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2041",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Tim Beiko: March 2023 semi-aggressive goal for next fork (“Shanghai”) with staking withdrawals (EIP4895) along with EIP3651 (warm COINBASE), EIP3855 (PUSH0) & EIP3860 (limit & meter initcode) Possible additional EIPs for Shanghai to be finalized at next core devs call; impact of",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-26-2022/",
           "publishedOn": "2022-11-26T00:52:08.000Z",
-          "wordCount": 1513,
+          "wordCount": 1515,
           "title": "Week in Ethereum News  November 26, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2038",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-11-19T01:28:24.000Z",
           "wordCount": 1585,
           "title": "Week in Ethereum News  November 19, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2036",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-11-12T03:10:07.000Z",
           "wordCount": 1494,
           "title": "Week in Ethereum News  November 12, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2031",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-11-05T01:46:26.000Z",
           "wordCount": 1564,
           "title": "Week in Ethereum News  November 5, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }
