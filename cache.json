@@ -44,16 +44,6 @@
           "wordCount": 1494,
           "title": "Week in Ethereum News  November 12, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2031",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Layer 1 Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: Full & partial withdrawals to be processed in a single queue-less pipeline EIP4844 (proto-danksharding) to be developed on top of withdrawals Block value to be added to EngineAPI to allow comparing MEV-Boost vs locally built blocks MEV-Boost",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-5-2022/",
-          "publishedOn": "2022-11-05T01:46:26.000Z",
-          "wordCount": 1564,
-          "title": "Week in Ethereum News  November 5, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
         }
       ]
     }
