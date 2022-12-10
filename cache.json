@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2051",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Layer 1 For stakers Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Tenderly’s new Web3 Gateway! The Tenderly platform enables Web3 developers to build, test, monitor, and operate smart contracts in one place. To cover each aspect of the dapp development lifecycle,",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-10-2022/",
+          "publishedOn": "2022-12-10T02:29:02.000Z",
+          "wordCount": 1775,
+          "title": "Week in Ethereum News  December 10, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2043",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Layer 1 Discussion of upgrade naming schemes Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: EIP4844 is not in the same readiness as withdrawals, so is being worked on in parallel & specified separately from Capella upgrade, to not delay withdrawals EIP4844 implementer call notes: CL teams",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-3-2022/",
           "publishedOn": "2022-12-03T02:35:21.000Z",
-          "wordCount": 1490,
+          "wordCount": 1568,
           "title": "Week in Ethereum News  December 3, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2041",
@@ -21,9 +31,9 @@
           "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Tim Beiko: March 2023 semi-aggressive goal for next fork (“Shanghai”) with staking withdrawals (EIP4895) along with EIP3651 (warm COINBASE), EIP3855 (PUSH0) & EIP3860 (limit & meter initcode) Possible additional EIPs for Shanghai to be finalized at next core devs call; impact of",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-26-2022/",
           "publishedOn": "2022-11-26T00:52:08.000Z",
-          "wordCount": 1515,
+          "wordCount": 1591,
           "title": "Week in Ethereum News  November 26, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2038",
@@ -31,9 +41,9 @@
           "description": "Eth News and Links Layer 1 EIP4844 (proto-danksharding) readiness checklist EVM Object Format (EOF) EIPs explainer Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: MEV-Boost update: Flashbots no longer top builder   Withdrawals: discussion on setting a bound to avoid sweeping the entire validator set EIP4844 blobs to be verified, will check",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-19-2022/",
           "publishedOn": "2022-11-19T01:28:24.000Z",
-          "wordCount": 1585,
+          "wordCount": 1661,
           "title": "Week in Ethereum News  November 19, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2036",
@@ -41,9 +51,9 @@
           "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Christine Kim: Shanghai upgrade planning, EIPs jostling to potentially be included along with withdrawals: EOF, EIP4844 (proto-danksharding), EIP4758 (deactivate SELFDESTRUCT), EIP1153 (transient storage) & EIP2537 (BLS12 precompile) Next call to focus on triage of Shanghai upgrade EIPs Users of SELFDESTRUCT need to",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-12-2022/",
           "publishedOn": "2022-11-12T03:10:07.000Z",
-          "wordCount": 1494,
+          "wordCount": 1570,
           "title": "Week in Ethereum News  November 12, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/11/Screenshot-from-2021-11-19-16-29-50.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
         }
       ]
     }
