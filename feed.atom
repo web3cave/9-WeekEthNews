@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T06:17:07.586Z</id>
+    <id>urn:2022-12-12T06:18:08.218Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T06:17:07.586Z</updated>
+    <updated>2022-12-12T06:18:08.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-november-19-2022/"/>
         <updated>2022-11-19T01:28:24.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Layer 1 EIP4844 (proto-danksharding) readiness checklist EVM Object Format (EOF) EIPs explainer Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: MEV-Boost update: Flashbots no longer top builder   Withdrawals: discussion on setting a bound to avoid sweeping the entire validator set EIP4844 blobs to be verified, will check]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  November 12, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=2036</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-november-12-2022/"/>
-        <updated>2022-11-12T03:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Layer 1 Latest core devs call video. Notes from Christine Kim: Shanghai upgrade planning, EIPs jostling to potentially be included along with withdrawals: EOF, EIP4844 (proto-danksharding), EIP4758 (deactivate SELFDESTRUCT), EIP1153 (transient storage) & EIP2537 (BLS12 precompile) Next call to focus on triage of Shanghai upgrade EIPs Users of SELFDESTRUCT need to]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

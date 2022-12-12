@@ -44,16 +44,6 @@
           "wordCount": 1661,
           "title": "Week in Ethereum News  November 19, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2036",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Christine Kim: Shanghai upgrade planning, EIPs jostling to potentially be included along with withdrawals: EOF, EIP4844 (proto-danksharding), EIP4758 (deactivate SELFDESTRUCT), EIP1153 (transient storage) & EIP2537 (BLS12 precompile) Next call to focus on triage of Shanghai upgrade EIPs Users of SELFDESTRUCT need to",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-12-2022/",
-          "publishedOn": "2022-11-12T03:10:07.000Z",
-          "wordCount": 1570,
-          "title": "Week in Ethereum News  November 12, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
         }
       ]
     }
