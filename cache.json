@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2053",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + D-starname upgrade Layer 1 Research Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to SpeedRunEthereum! Test your skills and learn how to build apps on Ethereum at SpeedRunEthereum.com. Stuff for developers Security Ecosystem Enterprise Application layer Job Listings Job listings: $600",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-17-2022/",
+          "publishedOn": "2022-12-17T01:02:12.000Z",
+          "wordCount": 1653,
+          "title": "Week in Ethereum News  December 17, 2022",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2051",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Layer 1 For stakers Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Tenderly’s new Web3 Gateway! The Tenderly platform enables Web3 developers to build, test, monitor, and operate smart contracts in one place. To cover each aspect of the dapp development lifecycle,",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-10-2022/",
           "publishedOn": "2022-12-10T02:29:02.000Z",
-          "wordCount": 1775,
+          "wordCount": 1777,
           "title": "Week in Ethereum News  December 10, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2043",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-12-03T02:35:21.000Z",
           "wordCount": 1568,
           "title": "Week in Ethereum News  December 3, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2041",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-11-26T00:52:08.000Z",
           "wordCount": 1591,
           "title": "Week in Ethereum News  November 26, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2038",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-11-19T01:28:24.000Z",
           "wordCount": 1661,
           "title": "Week in Ethereum News  November 19, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/Week-in-Eth_Newsletter_Logo_600x600px.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
         }
       ]
     }
