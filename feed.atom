@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T06:17:16.773Z</id>
+    <id>urn:2022-12-24T06:15:35.105Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T06:17:16.773Z</updated>
+    <updated>2022-12-24T06:15:35.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  December 24, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2056</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-24-2022/"/>
+        <updated>2022-12-24T01:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + D-starname upgrade Layer 1 Research Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic! Does your DAO want to delegate treasury management but keep custody? Or trustlessly automate your yield? Check out our Smart Vaults to automate DeFi operations in]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  December 17, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2053</id>
