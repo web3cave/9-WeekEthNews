@@ -44,16 +44,6 @@
           "wordCount": 1568,
           "title": "Week in Ethereum News  December 3, 2022",
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2041",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Layer 1 Latest core devs call video. Notes from Tim Beiko: March 2023 semi-aggressive goal for next fork (“Shanghai”) with staking withdrawals (EIP4895) along with EIP3651 (warm COINBASE), EIP3855 (PUSH0) & EIP3860 (limit & meter initcode) Possible additional EIPs for Shanghai to be finalized at next core devs call; impact of",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-26-2022/",
-          "publishedOn": "2022-11-26T00:52:08.000Z",
-          "wordCount": 1591,
-          "title": "Week in Ethereum News  November 26, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         }
       ]
     }
