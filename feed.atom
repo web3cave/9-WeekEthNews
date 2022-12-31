@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T06:17:05.601Z</id>
+    <id>urn:2022-12-31T06:16:16.514Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T06:17:05.601Z</updated>
+    <updated>2022-12-31T06:16:16.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  December 31, 2022]]></title>
+        <id>https://weekinethereumnews.com/?p=2059</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/"/>
+        <updated>2022-12-31T01:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + D-starname upgrade Layer 1 Research Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Hardhat’s VSCode extension! The Hardhat for Visual Studio Code extension adds comprehensive language support for Solidity to Visual Studio Code and enhances editor integration for Hardhat projects.]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  December 24, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2056</id>
