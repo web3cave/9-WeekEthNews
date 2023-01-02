@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-01T06:16:04.874Z</id>
+    <id>urn:2023-01-02T06:17:03.075Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-01T06:16:04.874Z</updated>
+    <updated>2023-01-02T06:17:03.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-10-2022/"/>
         <updated>2022-12-10T02:29:02.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Layer 1 For stakers Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Tenderly’s new Web3 Gateway! The Tenderly platform enables Web3 developers to build, test, monitor, and operate smart contracts in one place. To cover each aspect of the dapp development lifecycle,]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  December 3, 2022]]></title>
-        <id>https://weekinethereumnews.com/?p=2043</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-3-2022/"/>
-        <updated>2022-12-03T02:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Layer 1 Discussion of upgrade naming schemes Latest consensus layer call video. Notes from Ben Edgington & Christine Kim: EIP4844 is not in the same readiness as withdrawals, so is being worked on in parallel & specified separately from Capella upgrade, to not delay withdrawals EIP4844 implementer call notes: CL teams]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
