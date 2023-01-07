@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2061",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + D-starname upgrade Layer 1 Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Tenderly’s new Web3 Gateway! The Tenderly platform enables Web3 developers to build, test, monitor, and operate smart contracts in one place. To cover each aspect of the dapp",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-january-7-2023/",
+          "publishedOn": "2023-01-07T02:26:09.000Z",
+          "wordCount": 1845,
+          "title": "Week in Ethereum News  January 7, 2023",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/B5907404-61AD-4D3B-B4AB-14C9F643446F.jpeg"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2059",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + D-starname upgrade Layer 1 Research Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Hardhat’s VSCode extension! The Hardhat for Visual Studio Code extension adds comprehensive language support for Solidity to Visual Studio Code and enhances editor integration for Hardhat projects.",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/",
           "publishedOn": "2022-12-31T01:18:36.000Z",
-          "wordCount": 1628,
+          "wordCount": 1630,
           "title": "Week in Ethereum News  December 31, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/B5907404-61AD-4D3B-B4AB-14C9F643446F.jpeg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2056",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-12-24T01:07:49.000Z",
           "wordCount": 1696,
           "title": "Week in Ethereum News  December 24, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/B5907404-61AD-4D3B-B4AB-14C9F643446F.jpeg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2053",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-12-17T01:02:12.000Z",
           "wordCount": 1655,
           "title": "Week in Ethereum News  December 17, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/B5907404-61AD-4D3B-B4AB-14C9F643446F.jpeg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2051",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-12-10T02:29:02.000Z",
           "wordCount": 1777,
           "title": "Week in Ethereum News  December 10, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/12/B5907404-61AD-4D3B-B4AB-14C9F643446F.jpeg"
         }
       ]
     }

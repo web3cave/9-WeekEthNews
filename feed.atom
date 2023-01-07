@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T06:17:45.479Z</id>
+    <id>urn:2023-01-07T06:15:46.728Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T06:17:45.479Z</updated>
+    <updated>2023-01-07T06:15:46.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  January 7, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2061</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-january-7-2023/"/>
+        <updated>2023-01-07T02:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + D-starname upgrade Layer 1 Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Tenderly’s new Web3 Gateway! The Tenderly platform enables Web3 developers to build, test, monitor, and operate smart contracts in one place. To cover each aspect of the dapp]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  December 31, 2022]]></title>
         <id>https://weekinethereumnews.com/?p=2059</id>
