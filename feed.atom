@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T06:17:23.373Z</id>
+    <id>urn:2023-01-28T06:16:06.842Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T06:17:23.373Z</updated>
+    <updated>2023-01-28T06:16:06.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  January 28, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2085</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/"/>
+        <updated>2023-01-28T02:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Optimism’s Retroactive Public Goods Funding Optimism is running a second round of their Retroactive Public Goods Funding.  Ten million OP tokens will be given out in this]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  January 21, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2077</id>

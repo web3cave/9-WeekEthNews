@@ -6,14 +6,24 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2085",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Optimism’s Retroactive Public Goods Funding Optimism is running a second round of their Retroactive Public Goods Funding.  Ten million OP tokens will be given out in this",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/",
+          "publishedOn": "2023-01-28T02:57:57.000Z",
+          "wordCount": 1720,
+          "title": "Week in Ethereum News  January 28, 2023",
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2077",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research EIPs/Standards This newsletter is made possible thanks to Mimic! Does your app or DAO want to automate your DeFi operations?  With Mimic, you can automate swapping, bridging and treasury management. Check out our Smart Vaults to",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-january-21-2023/",
           "publishedOn": "2023-01-21T01:48:56.000Z",
-          "wordCount": 1861,
+          "wordCount": 1876,
           "title": "Week in Ethereum News  January 21, 2023",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2066",
@@ -23,7 +33,7 @@
           "publishedOn": "2023-01-14T22:56:38.000Z",
           "wordCount": 1714,
           "title": "Week in Ethereum News  January 14, 2023",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2061",
@@ -33,7 +43,7 @@
           "publishedOn": "2023-01-07T02:26:09.000Z",
           "wordCount": 1847,
           "title": "Week in Ethereum News  January 7, 2023",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2059",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-12-31T01:18:36.000Z",
           "wordCount": 1630,
           "title": "Week in Ethereum News  December 31, 2022",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
         }
       ]
     }
