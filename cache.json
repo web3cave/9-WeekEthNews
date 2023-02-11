@@ -6,19 +6,34 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2099",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Nexus Mutual Nexus Mutual is the leading insurance alternative for crypto and more. Over $10m in claims paid across eight loss events including FTX and Hodlnaut.",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-11-2023/",
+          "publishedOn": "2023-02-11T03:37:01.000Z",
+          "wordCount": null,
+          "title": "Week in Ethereum News  February 11, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png",
+            "length": "15122",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2091",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Hardhat’s VSCode extension! The Hardhat for Visual Studio Code extension adds comprehensive language support for Solidity to Visual Studio Code and enhances editor integration for Hardhat",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-4-2023/",
           "publishedOn": "2023-02-04T02:14:56.000Z",
-          "wordCount": 2389,
+          "wordCount": 2391,
           "title": "Week in Ethereum News  February 4, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png",
-            "length": "130083",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png",
+            "length": "15122",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2085",
@@ -29,11 +44,11 @@
           "wordCount": 2268,
           "title": "Week in Ethereum News  January 28, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png",
-            "length": "130083",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png",
+            "length": "15122",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2077",
@@ -44,11 +59,11 @@
           "wordCount": 2422,
           "title": "Week in Ethereum News  January 21, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png",
-            "length": "130083",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png",
+            "length": "15122",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2066",
@@ -59,11 +74,11 @@
           "wordCount": 2260,
           "title": "Week in Ethereum News  January 14, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png",
-            "length": "130083",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png",
+            "length": "15122",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/02/NXMmain.png"
         }
       ]
     }
