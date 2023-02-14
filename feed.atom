@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T06:18:26.693Z</id>
+    <id>urn:2023-02-14T06:18:16.877Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T06:18:26.694Z</updated>
+    <updated>2023-02-14T06:18:16.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research EIPs/Standards This newsletter is made possible thanks to Mimic! Does your app or DAO want to automate your DeFi operations?  With Mimic, you can automate swapping, bridging and treasury management. Check out our Smart Vaults to]]></summary>
         <author>
             <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  January 14, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2066</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-january-14-2023-thanks-to-speedrunethereum-com-for-making-this-issue-possible/"/>
-        <updated>2023-01-14T22:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Cancun + Deneb Layer 1 Client releases MEV Layer 2 EIPs/Standards This newsletter is made possible thanks to SpeedRunEthereum.com! Test your skills and learn how to build apps on Ethereum at SpeedRunEthereum.com. Stuff for developers Security Ecosystem Enterprise Application layer Job Listings Job listings: $600 for]]></summary>
-        <author>
-            <name>evanvanness</name>
         </author>
     </entry>
 </feed>
