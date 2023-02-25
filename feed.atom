@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T06:18:47.648Z</id>
+    <id>urn:2023-02-25T06:16:48.081Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T06:18:47.648Z</updated>
+    <updated>2023-02-25T06:16:48.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  February 25, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2118</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-february-25-2023/"/>
+        <updated>2023-02-25T02:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Research For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic! Does your app or DAO want to automate your DeFi operations?  With Mimic, you can automate swapping, bridging and treasury management. Check out our Smart]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  February 18, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2113</id>

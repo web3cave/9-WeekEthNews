@@ -6,19 +6,34 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2118",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Research For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic! Does your app or DAO want to automate your DeFi operations?  With Mimic, you can automate swapping, bridging and treasury management. Check out our Smart",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-25-2023/",
+          "publishedOn": "2023-02-25T02:24:01.000Z",
+          "wordCount": 2634,
+          "title": "Week in Ethereum News  February 25, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2113",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to SpeedRunEthereum! Test your skills and learn how to build apps on Ethereum at SpeedRunEthereum.com. Stuff for developers Security Ecosystem Enterprise Application layer Job Listings",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-18-2023/",
           "publishedOn": "2023-02-18T01:26:44.000Z",
-          "wordCount": 2656,
+          "wordCount": 2658,
           "title": "Week in Ethereum News  February 18, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg",
-            "length": "62869",
-            "type": "image/jpeg"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
+            "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2099",
@@ -29,11 +44,11 @@
           "wordCount": 2678,
           "title": "Week in Ethereum News  February 11, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg",
-            "length": "62869",
-            "type": "image/jpeg"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
+            "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2091",
@@ -44,11 +59,11 @@
           "wordCount": 2397,
           "title": "Week in Ethereum News  February 4, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg",
-            "length": "62869",
-            "type": "image/jpeg"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
+            "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2085",
@@ -59,11 +74,11 @@
           "wordCount": 2274,
           "title": "Week in Ethereum News  January 28, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg",
-            "length": "62869",
-            "type": "image/jpeg"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
+            "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/Speed-Run-Ethereum-square.jpg"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         }
       ]
     }
