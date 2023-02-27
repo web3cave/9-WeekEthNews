@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T06:17:28.405Z</id>
+    <id>urn:2023-02-27T06:19:04.316Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-26T06:17:28.405Z</updated>
+    <updated>2023-02-27T06:19:04.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-february-4-2023/"/>
         <updated>2023-02-04T02:14:56.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Hardhat’s VSCode extension! The Hardhat for Visual Studio Code extension adds comprehensive language support for Solidity to Visual Studio Code and enhances editor integration for Hardhat]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  January 28, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2085</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/"/>
-        <updated>2023-01-28T02:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Layer 2 EIPs/Standards This newsletter is made possible thanks to Optimism’s Retroactive Public Goods Funding Optimism is running a second round of their Retroactive Public Goods Funding.  Ten million OP tokens will be given out in this]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
