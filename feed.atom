@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T06:18:51.491Z</id>
+    <id>urn:2023-03-04T06:17:14.646Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T06:18:51.491Z</updated>
+    <updated>2023-03-04T06:17:14.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  March 4, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2120</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-4-2023/"/>
+        <updated>2023-03-04T02:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Research For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Hardhat’s VSCode extension! The Hardhat for Visual Studio Code extension adds comprehensive language support for Solidity to Visual Studio Code and enhances editor integration for Hardhat]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  February 25, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2118</id>
