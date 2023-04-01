@@ -6,19 +6,34 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2141",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Scaffold-Eth-2 hackathon! BuidlGuidl presents: Scaffold-Eth 2 hackathon. This is a great opportunity to build a prototype in a few days. There’s no sign-up required, simply build something & submit it before April 8. You",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-1-2023/",
+          "publishedOn": "2023-04-01T02:21:52.000Z",
+          "wordCount": 2475,
+          "title": "Week in Ethereum News  April 1, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg",
+            "length": "124302",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2134",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit), payable in ETH/DAI/USDC to abcoathup.eth on mainnet or Layer 2.",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-25-2023/",
           "publishedOn": "2023-03-25T02:47:14.000Z",
-          "wordCount": 2505,
+          "wordCount": 2507,
           "title": "Week in Ethereum News  March 25, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
-            "type": "image/png"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg",
+            "length": "124302",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2130",
@@ -29,11 +44,11 @@
           "wordCount": 2732,
           "title": "Week in Ethereum News  March 18, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
-            "type": "image/png"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg",
+            "length": "124302",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2123",
@@ -44,11 +59,11 @@
           "wordCount": 2706,
           "title": "Week in Ethereum News  March 11, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
-            "type": "image/png"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg",
+            "length": "124302",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2120",
@@ -59,11 +74,11 @@
           "wordCount": 2642,
           "title": "Week in Ethereum News  March 4, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
-            "type": "image/png"
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg",
+            "length": "124302",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/04/Scaffold-Eth-2-hackathon-1.jpg"
         }
       ]
     }

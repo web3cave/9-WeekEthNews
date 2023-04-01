@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T06:17:19.024Z</id>
+    <id>urn:2023-04-01T06:15:16.889Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-31T06:17:19.024Z</updated>
+    <updated>2023-04-01T06:15:16.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  April 1, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2141</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-1-2023/"/>
+        <updated>2023-04-01T02:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Scaffold-Eth-2 hackathon! BuidlGuidl presents: Scaffold-Eth 2 hackathon. This is a great opportunity to build a prototype in a few days. There’s no sign-up required, simply build something & submit it before April 8. You]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  March 25, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2134</id>
