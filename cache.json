@@ -6,19 +6,34 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2144",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic! Are you a founder or dev spending too much time doing transactions and mashing buttons on your hardware wallet just to collect fees across chains or",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-8-2023/",
+          "publishedOn": "2023-04-08T01:57:18.000Z",
+          "wordCount": 2509,
+          "title": "Week in Ethereum News  April 8, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2141",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Scaffold-Eth-2 hackathon! BuidlGuidl presents: Scaffold-Eth 2 hackathon. This is a great opportunity to build a prototype in a few days. There’s no sign-up required, simply build something & submit it before April 8. You",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-1-2023/",
           "publishedOn": "2023-04-01T02:21:52.000Z",
-          "wordCount": 2478,
+          "wordCount": 2480,
           "title": "Week in Ethereum News  April 1, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2134",
@@ -29,11 +44,11 @@
           "wordCount": 2510,
           "title": "Week in Ethereum News  March 25, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2130",
@@ -44,11 +59,11 @@
           "wordCount": 2735,
           "title": "Week in Ethereum News  March 18, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         },
         {
           "id": "https://weekinethereumnews.com/?p=2123",
@@ -59,11 +74,11 @@
           "wordCount": 2709,
           "title": "Week in Ethereum News  March 11, 2023",
           "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png",
+            "length": "13528",
             "type": "image/png"
           },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2022/10/mimic.png"
         }
       ]
     }
