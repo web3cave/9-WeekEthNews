@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T06:15:15.516Z</id>
+    <id>urn:2023-04-10T06:16:27.753Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-09T06:15:15.516Z</updated>
+    <updated>2023-04-10T06:16:27.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-18-2023/"/>
         <updated>2023-03-18T02:49:16.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Nexus Mutual What’s so special about Nexus Mutual v2? This upgrade makes the Nexus Mutual protocol an infrastructure layer enabling an on-chain risk marketplace.]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  March 11, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2123</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-11-2023/"/>
-        <updated>2023-03-11T04:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Layer 2 EIPs/Standards This newsletter is made possible thanks to Tenderly’s Web3 Gateway! The Tenderly platform enables Web3 developers to build, test, monitor, and operate smart contracts in one place. To cover each aspect of the dapp development lifecycle,]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
