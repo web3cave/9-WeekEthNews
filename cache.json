@@ -64,21 +64,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2130",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Nexus Mutual What’s so special about Nexus Mutual v2? This upgrade makes the Nexus Mutual protocol an infrastructure layer enabling an on-chain risk marketplace.",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-18-2023/",
-          "publishedOn": "2023-03-18T02:49:16.000Z",
-          "wordCount": 2738,
-          "title": "Week in Ethereum News  March 18, 2023",
-          "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png",
-            "length": "11798",
-            "type": "image/png"
-          },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
         }
       ]
     }
