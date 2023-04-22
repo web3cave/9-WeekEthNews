@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T06:16:57.267Z</id>
+    <id>urn:2023-04-22T06:15:33.656Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-21T06:16:57.267Z</updated>
+    <updated>2023-04-22T06:15:33.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  April 22, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2150</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-22-2023/"/>
+        <updated>2023-04-21T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to the funding received from Optimism’s RetroPGF! Thank you to Optimism’s RetroPGF round 2 which generously funded Week in Ethereum News for “months, not weeks.” Stuff for developers Security Ecosystem Enterprise Notable at]]></summary>
+        <author>
+            <name>evanvanness</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  April 15, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2146</id>
