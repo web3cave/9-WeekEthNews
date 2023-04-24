@@ -64,21 +64,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2134",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit), payable in ETH/DAI/USDC to abcoathup.eth on mainnet or Layer 2.",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-25-2023/",
-          "publishedOn": "2023-03-25T02:47:14.000Z",
-          "wordCount": 2560,
-          "title": "Week in Ethereum News  March 25, 2023",
-          "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png",
-            "length": "11798",
-            "type": "image/png"
-          },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/01/Optimism-Profile-Logo.png"
         }
       ]
     }
