@@ -11,7 +11,7 @@
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Client releases Research Layer 2 EIPs/Standards This newsletter is made possible thanks to the funding received from Optimism’s RetroPGF! Thank you to Optimism’s RetroPGF round 2 which generously funded Week in Ethereum News for “months, not weeks.” Stuff for developers Security Ecosystem Notable at",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-29-2023/",
           "publishedOn": "2023-04-29T00:34:41.000Z",
-          "wordCount": 2367,
+          "wordCount": 2368,
           "title": "Week in Ethereum News  April 29, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
@@ -41,7 +41,7 @@
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Research Layer 2 EIPs/Standards This newsletter is made possible thanks to the funding received from Optimism’s RetroPGF! Thank you to Optimism’s RetroPGF round 2 which generously funded Week in Ethereum News for “months, not weeks.” Stuff for",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-15-2023/",
           "publishedOn": "2023-04-15T00:34:50.000Z",
-          "wordCount": 2388,
+          "wordCount": 2391,
           "title": "Week in Ethereum News  April 15, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
@@ -56,23 +56,8 @@
           "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic! Are you a founder or dev spending too much time doing transactions and mashing buttons on your hardware wallet just to collect fees across chains or",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-8-2023/",
           "publishedOn": "2023-04-08T01:57:18.000Z",
-          "wordCount": 2561,
+          "wordCount": 2564,
           "title": "Week in Ethereum News  April 8, 2023",
-          "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
-            "type": "image/png"
-          },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2141",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Shapella (Shanghai + Capella) upgrade For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Scaffold-Eth-2 hackathon! BuidlGuidl presents: Scaffold-Eth 2 hackathon. This is a great opportunity to build a prototype in a few days. There’s no sign-up required, simply build something & submit it before April 8. You",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-april-1-2023/",
-          "publishedOn": "2023-04-01T02:21:52.000Z",
-          "wordCount": 2530,
-          "title": "Week in Ethereum News  April 1, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
             "length": "11409",

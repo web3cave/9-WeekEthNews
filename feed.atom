@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T06:15:48.978Z</id>
+    <id>urn:2023-05-01T06:16:36.952Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-30T06:15:48.978Z</updated>
+    <updated>2023-05-01T06:16:36.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-8-2023/"/>
         <updated>2023-04-08T01:57:18.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic! Are you a founder or dev spending too much time doing transactions and mashing buttons on your hardware wallet just to collect fees across chains or]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  April 1, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2141</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-1-2023/"/>
-        <updated>2023-04-01T02:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to Scaffold-Eth-2 hackathon! BuidlGuidl presents: Scaffold-Eth 2 hackathon. This is a great opportunity to build a prototype in a few days. There’s no sign-up required, simply build something & submit it before April 8. You]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
