@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T06:15:01.094Z</id>
+    <id>urn:2023-05-15T06:16:23.919Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-14T06:15:01.094Z</updated>
+    <updated>2023-05-15T06:16:23.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Layer 2 EIPs/Standards This newsletter is made possible thanks to the funding received from Optimism’s RetroPGF! Thank you to Optimism’s RetroPGF round 2 which generously funded Week in Ethereum News for “months, not weeks.” Stuff for developers Security Ecosystem Enterprise Notable at]]></summary>
         <author>
             <name>evanvanness</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  April 15, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2146</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-april-15-2023/"/>
-        <updated>2023-04-15T00:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Shapella (Shanghai + Capella) upgrade Dencun (Cancun + Deneb) upgrade Layer 1 For Stakers Research Layer 2 EIPs/Standards This newsletter is made possible thanks to the funding received from Optimism’s RetroPGF! Thank you to Optimism’s RetroPGF round 2 which generously funded Week in Ethereum News for “months, not weeks.” Stuff for]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
         </author>
     </entry>
 </feed>
