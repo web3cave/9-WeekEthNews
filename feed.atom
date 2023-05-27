@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T06:15:32.306Z</id>
+    <id>urn:2023-05-27T06:15:10.103Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-26T06:15:32.306Z</updated>
+    <updated>2023-05-27T06:15:10.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  May 27, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2167</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-may-27-2023/"/>
+        <updated>2023-05-27T00:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Client releases For Stakers Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit), payable to abcoathup.eth.  Questions? abcoathup at-gmail Regulation/business/tokens General/crypto Follow @WeekinEthNews to find out what the most]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News   May 20, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2163</id>
