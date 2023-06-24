@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2182",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Client releases For Stakers Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit), payable to abcoathup.eth.  Questions? abcoathup at-gmail Regulation/business/tokens General/crypto Follow @WeekinEthNews to find out what the",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-24-2023/",
+          "publishedOn": "2023-06-24T00:23:41.000Z",
+          "wordCount": 2459,
+          "title": "Week in Ethereum News  June 24, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2179",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Client releases For Stakers Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit), payable to abcoathup.eth.  Questions? abcoathup at-gmail Regulation/business/tokens General/crypto Follow @WeekinEthNews to find out what the",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-17-2023/",
           "publishedOn": "2023-06-17T00:42:06.000Z",
-          "wordCount": 2445,
+          "wordCount": 2447,
           "title": "Week in Ethereum News  June 17, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
