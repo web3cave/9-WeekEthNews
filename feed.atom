@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T06:16:22.241Z</id>
+    <id>urn:2023-07-22T06:14:48.630Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-21T06:16:22.241Z</updated>
+    <updated>2023-07-22T06:14:48.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  July 22, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2198</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-22-2023/"/>
+        <updated>2023-07-22T00:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Prague + Electra upgrade Layer 1 Client releases For Stakers Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic v3 Mimic v3 is a platform that helps you model and automate operations in DeFi. Do you need: Mimic gives you a customizable workflow]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  July 15, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2195</id>
