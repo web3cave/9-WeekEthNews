@@ -41,7 +41,7 @@
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Rysk Rysk Finance is an AMM for ETH options. Rysk just launched on Arbitrum with: Rysk’s options AMM also offers uncorrelated returns for liquidity providers. While not risk-free, our automated delta hedging mechanism",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-29-2023/",
           "publishedOn": "2023-07-28T22:41:39.000Z",
-          "wordCount": 2401,
+          "wordCount": 2404,
           "title": "Week in Ethereum News  July 29, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Rysk.jpg",
@@ -64,21 +64,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Mimic-logo.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2195",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Client releases For Stakers Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Sablier Sablier V2 is a next-generation token streaming protocol that doubles down on our flagship Lockup design. V2 pushes the boundaries of web3 payment protocols: Introducing Sablier V2 Stuff",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-15-2023/",
-          "publishedOn": "2023-07-15T00:04:17.000Z",
-          "wordCount": 2628,
-          "title": "Week in Ethereum News  July 15, 2023",
-          "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Sablier-logo.png",
-            "length": "48850",
-            "type": "image/png"
-          },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Sablier-logo.png"
         }
       ]
     }
