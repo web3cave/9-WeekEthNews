@@ -64,21 +64,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Rysk.jpg"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2198",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Prague + Electra upgrade Layer 1 Client releases For Stakers Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Mimic v3 Mimic v3 is a platform that helps you model and automate operations in DeFi. Do you need: Mimic gives you a customizable workflow",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-22-2023/",
-          "publishedOn": "2023-07-22T00:16:46.000Z",
-          "wordCount": 2480,
-          "title": "Week in Ethereum News  July 22, 2023",
-          "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Mimic-logo.png",
-            "length": "13515",
-            "type": "image/png"
-          },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/07/Mimic-logo.png"
         }
       ]
     }
