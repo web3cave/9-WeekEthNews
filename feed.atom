@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-27T06:14:36.025Z</id>
+    <id>urn:2023-08-28T06:16:30.113Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-27T06:14:36.025Z</updated>
+    <updated>2023-08-28T06:16:30.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-5-2023/"/>
         <updated>2023-08-05T00:43:49.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 For stakers Client releases Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit), payable to abcoathup.eth.  Questions? abcoathup at-gmail Regulation/business/tokens General Follow @WeekinEthNews to find out what the most]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  July 29, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2203</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-29-2023/"/>
-        <updated>2023-07-28T22:41:39.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 Research Layer 2 EIPs/Standards This newsletter is made possible thanks to Rysk Rysk Finance is an AMM for ETH options. Rysk just launched on Arbitrum with: Rysk’s options AMM also offers uncorrelated returns for liquidity providers. While not risk-free, our automated delta hedging mechanism]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
