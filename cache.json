@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2223",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 Client releases Research Layer 2 EIPs/Standards Check out Evan’s new podcast: web3 Builders Are the permabulls lying to you (for clicks and views) about the chances for ETF approval?   Evan says they are, Will disagrees.   Listen",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-2-2023/",
+          "publishedOn": "2023-09-02T01:29:13.000Z",
+          "wordCount": 2547,
+          "title": "Week in Ethereum News  September 2, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/08/Web3-Builders.webp",
+            "length": "6904",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/08/Web3-Builders.webp"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2220",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 For stakers Client releases Research Layer 2 EIPs/Standards The Tornado Cash devs helped bring privacy to Ethereum. In return, the US federal government is trying to put them in jail Watch Ameen Soleimani discuss the injustice of the US federal charges brought against Roman",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-august-26-2023/",
           "publishedOn": "2023-08-26T01:46:12.000Z",
-          "wordCount": 2518,
+          "wordCount": 2520,
           "title": "Week in Ethereum News  August 26, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/08/Web3-Builders.webp",
