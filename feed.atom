@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T06:16:05.547Z</id>
+    <id>urn:2023-09-09T06:14:21.662Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-08T06:16:05.547Z</updated>
+    <updated>2023-09-09T06:14:21.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  September 9, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2226</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-september-9-2023/"/>
+        <updated>2023-09-09T01:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases for Holešky testnet Research Layer 2 EIPs/Standards Check out web3 Builders Podcast  Check out Will and Evan’s interviews with the honest actors of Ethereum: Austin Griffith, Ameen Soleimani, and Vitalik Buterin (part]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  September 2, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2223</id>

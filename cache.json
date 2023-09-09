@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2226",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases for Holešky testnet Research Layer 2 EIPs/Standards Check out web3 Builders Podcast  Check out Will and Evan’s interviews with the honest actors of Ethereum: Austin Griffith, Ameen Soleimani, and Vitalik Buterin (part",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-9-2023/",
+          "publishedOn": "2023-09-09T01:39:18.000Z",
+          "wordCount": 2598,
+          "title": "Week in Ethereum News  September 9, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/08/Web3-Builders.webp",
+            "length": "6904",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/08/Web3-Builders.webp"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2223",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 Client releases Research Layer 2 EIPs/Standards Check out Evan’s new podcast: web3 Builders Are the permabulls lying to you (for clicks and views) about the chances for ETF approval?   Evan says they are, Will disagrees.   Listen",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-2-2023/",
           "publishedOn": "2023-09-02T01:29:13.000Z",
-          "wordCount": 2550,
+          "wordCount": 2552,
           "title": "Week in Ethereum News  September 2, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/08/Web3-Builders.webp",
