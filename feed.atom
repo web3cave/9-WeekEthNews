@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-17T06:14:32.925Z</id>
+    <id>urn:2023-09-18T06:16:22.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-17T06:14:32.925Z</updated>
+    <updated>2023-09-18T06:16:22.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-26-2023/"/>
         <updated>2023-08-26T01:46:12.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 For stakers Client releases Research Layer 2 EIPs/Standards The Tornado Cash devs helped bring privacy to Ethereum. In return, the US federal government is trying to put them in jail Watch Ameen Soleimani discuss the injustice of the US federal charges brought against Roman]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  August 19, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2216</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-19-2023/"/>
-        <updated>2023-08-19T00:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Layer 1 For stakers Client releases Research Layer 2 EIPs/Standards Check out Evan’s new podcast: web3 Builders On the latest weekly show Evan and Will discuss Tether abandoning Bitcoin, timelines for Dencun/danksharding/getting our under 5 cent transaction fees, rollups piling on Optimism, Gitcoin + BigOil and]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
