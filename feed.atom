@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T06:16:20.837Z</id>
+    <id>urn:2023-09-23T06:15:01.707Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T06:16:20.837Z</updated>
+    <updated>2023-09-23T06:15:01.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  September 23, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2232</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-september-23-2023/"/>
+        <updated>2023-09-23T01:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Prague + Electra upgrade Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Research Layer 2 EIPs/Standards Lido is a systemic threat to ETH: interview with Danny Ryan Lido is a systemic threat to Ethereum.  You won’t want to miss this]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  September 16, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2229</id>
