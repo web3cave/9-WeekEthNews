@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T06:16:33.077Z</id>
+    <id>urn:2023-10-07T06:15:14.830Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-06T06:16:33.077Z</updated>
+    <updated>2023-10-07T06:15:14.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  October 7, 2023]]></title>
+        <id>https://weekinethereumnews.com/?p=2243</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-7-2023/"/>
+        <updated>2023-10-06T23:46:44.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Layer 2 EIPs/Standards Holding Lido publicly accountable: interview with Ben Edgington Lido governance is not fit for purpose.  Don’t miss this episode with Ben Edgington. (Watch on YouTube) Ben also talks about]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  September 30, 2023]]></title>
         <id>https://weekinethereumnews.com/?p=2239</id>
