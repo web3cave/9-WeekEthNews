@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2248",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Research Layer 2 EIPs/Standards Optimism’s RetroPGF Round 3 applications are open Applications for Optimism’s RetroPGF Round 3 are open! In this round 30 million OP will be allocated to the builders, artists,",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-14-2023/",
+          "publishedOn": "2023-10-13T23:19:27.000Z",
+          "wordCount": 2522,
+          "title": "Week in Ethereum News  October 14, 2023",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2243",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Layer 2 EIPs/Standards Holding Lido publicly accountable: interview with Ben Edgington Lido governance is not fit for purpose.  Don’t miss this episode with Ben Edgington. (Watch on YouTube) Ben also talks about",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-7-2023/",
           "publishedOn": "2023-10-06T23:46:44.000Z",
-          "wordCount": 2487,
+          "wordCount": 2489,
           "title": "Week in Ethereum News  October 7, 2023",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
