@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-07T06:15:54.551Z</id>
+    <id>urn:2024-01-08T06:17:24.756Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-07T06:15:54.551Z</updated>
+    <updated>2024-01-08T06:17:24.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-16-2023/"/>
         <updated>2023-12-16T00:34:54.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Onchain stats Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit).  Pay using 3cities.  Questions?]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  December 9, 2023]]></title>
-        <id>https://weekinethereumnews.com/?p=2279</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-9-2023/"/>
-        <updated>2023-12-09T00:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Onchain stats Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit).  Pay using 3cities.]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>

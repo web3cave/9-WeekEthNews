@@ -64,21 +64,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
-        },
-        {
-          "id": "https://weekinethereumnews.com/?p=2279",
-          "author": "Andrew Coathup",
-          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Centralization watch: threatening the value of your ETH Layer 1 For Stakers Client releases Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Onchain stats Notable at app layer Job Listings Job listings: $600 for four issues (75 character limit).  Pay using 3cities.",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-9-2023/",
-          "publishedOn": "2023-12-09T00:08:39.000Z",
-          "wordCount": 2543,
-          "title": "Week in Ethereum News  December 9, 2023",
-          "enclosure": {
-            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
-            "length": "11409",
-            "type": "image/png"
-          },
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
         }
       ]
     }
