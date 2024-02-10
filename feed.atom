@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T06:16:03.036Z</id>
+    <id>urn:2024-02-10T06:14:54.736Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-09T06:16:03.036Z</updated>
+    <updated>2024-02-10T06:14:54.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  February 10, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2334</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-february-10-2024/"/>
+        <updated>2024-02-09T23:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Centralization watch: threatening the value of your ETH Layer 1 Research Client releases For stakers Layer 2 EIPs/Standards Stuff for developers Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup at-gmail Onchain stats Notable at app]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  February 3, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2329</id>
