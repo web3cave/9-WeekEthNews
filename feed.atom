@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-16T06:15:40.283Z</id>
+    <id>urn:2024-02-17T06:15:14.593Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-16T06:15:40.283Z</updated>
+    <updated>2024-02-17T06:15:14.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  February 17, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2337</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-february-17-2024/"/>
+        <updated>2024-02-16T23:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Osaka upgrade (meta EIP7607) Centralization watch: threatening the value of your ETH Layer 1 ePBS (enshrined Proposer-Builder Separation) MEV Research For stakers Client releases Support the Roman Storm & Alex Pertsev legal defense fund The Biden administration is attempting to criminalize open source software]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  February 10, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2334</id>

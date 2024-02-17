@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2337",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Osaka upgrade (meta EIP7607) Centralization watch: threatening the value of your ETH Layer 1 ePBS (enshrined Proposer-Builder Separation) MEV Research For stakers Client releases Support the Roman Storm & Alex Pertsev legal defense fund The Biden administration is attempting to criminalize open source software",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-17-2024/",
+          "publishedOn": "2024-02-16T23:37:25.000Z",
+          "wordCount": 2828,
+          "title": "Week in Ethereum News  February 17, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2334",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Centralization watch: threatening the value of your ETH Layer 1 Research Client releases For stakers Layer 2 EIPs/Standards Stuff for developers Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup at-gmail Onchain stats Notable at app",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-february-10-2024/",
           "publishedOn": "2024-02-09T23:06:46.000Z",
-          "wordCount": 2666,
+          "wordCount": 2668,
           "title": "Week in Ethereum News  February 10, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
