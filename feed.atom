@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T06:16:28.378Z</id>
+    <id>urn:2024-02-24T06:14:37.360Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-23T06:16:28.378Z</updated>
+    <updated>2024-02-24T06:14:37.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  February 24, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2340</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-february-24-2024/"/>
+        <updated>2024-02-24T00:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Pectra (Prague + Electra) upgrade (meta EIP7600) Osaka upgrade (meta EIP7607) Centralization watch: threatening the value of your ETH Layer 1 ePBS (enshrined Proposer-Builder Separation) MEV Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings: $600 for 4 issues]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  February 17, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2337</id>
