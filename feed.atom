@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-15T06:16:23.456Z</id>
+    <id>urn:2024-03-16T06:14:59.961Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-15T06:16:23.456Z</updated>
+    <updated>2024-03-16T06:14:59.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  March 16, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2352</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-march-16-2024/"/>
+        <updated>2024-03-16T00:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Dencun (Cancun + Deneb) upgrade (meta EIP7569) Pectra (Prague + Electra) upgrade (meta EIP7600) This newsletter is sponsored by Pashov Audit Group!  Are you developing a blockchain protocol? Make sure to get a high-quality audit. Audits are not silver bullets, but a good one drastically decreases the chances of a successful]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  March 9, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2348</id>
