@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2361",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Pectra (Prague + Electra) upgrade (meta EIP7600) Osaka + F starname upgrade (meta EIP7607) This newsletter is sponsored by Pashov Audit Group!  What if you can get a good security review from elite security researchers without spending a single penny?  We offer a FREE pre-audit reviewon your code. Our review will",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-30-2024/",
+          "publishedOn": "2024-03-29T23:30:27.000Z",
+          "wordCount": 3040,
+          "title": "Week in Ethereum News  March 30, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2357",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Pectra (Prague + Electra) upgrade (meta EIP7600) Centralization watch: threatening the value of your ETH Layer 1 Client Releases Research Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup at-gmail Onchain stats Notable at app",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-march-23-2024/",
           "publishedOn": "2024-03-22T23:30:50.000Z",
-          "wordCount": 2776,
+          "wordCount": 2778,
           "title": "Week in Ethereum News  March 23, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
