@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2385",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links All core devs – execution (ACDE) Pectra (Prague + Electra) upgrade (meta EIP7600), small fork targeting late 2024 Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75 char",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-11-2024/",
+          "publishedOn": "2024-05-11T01:08:45.000Z",
+          "wordCount": 2660,
+          "title": "Week in Ethereum News  May 11, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2381",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Pectra (Prague + Electra) upgrade (meta EIP7600) Centralization watch: threatening the value of your ETH Layer 1 Client Releases For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup at-gmail Onchain stats Notable at app",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-4-2024/",
           "publishedOn": "2024-05-04T00:03:46.000Z",
-          "wordCount": 2408,
+          "wordCount": 2410,
           "title": "Week in Ethereum News  May 4, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
