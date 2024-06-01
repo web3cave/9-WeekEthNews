@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2400",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links PeerDAS included in Pectra upgrade but with separate activation epoch, proposal to extend ENS to Layer 2 & Biden vetos congressional disapproval of SEC SAB 121 All core devs Pectra (Prague + Electra) upgrade Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Client Releases",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-june-1-2024/",
+          "publishedOn": "2024-06-01T00:48:25.000Z",
+          "wordCount": 2638,
+          "title": "Week in Ethereum News  June 1, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2396",
           "author": "Andrew Coathup",
           "description": "Eth News and Links All core devs Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup at-gmail Onchain stats Notable at app layer Regulation/business/tokens General END OF",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-may-25-2024/",
           "publishedOn": "2024-05-25T00:40:13.000Z",
-          "wordCount": 2595,
+          "wordCount": 2597,
           "title": "Week in Ethereum News  May 25, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
