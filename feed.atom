@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-07T06:19:56.090Z</id>
+    <id>urn:2024-06-08T06:17:46.189Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-07T06:19:56.090Z</updated>
+    <updated>2024-06-08T06:17:46.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  June 8, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2404</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-8-2024/"/>
+        <updated>2024-06-08T00:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links EOF included in Pectra upgrade, largest upgrade ever planned (19 EIPs), likely targeting Q1 2025 All core devs Pectra (Prague + Electra) upgrade Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Client Releases For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  June 1, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2400</id>
