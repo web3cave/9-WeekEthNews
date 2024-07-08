@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-07T06:19:12.426Z</id>
+    <id>urn:2024-07-08T06:20:33.465Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-07T06:19:12.426Z</updated>
+    <updated>2024-07-08T06:20:33.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-15-2024/"/>
         <updated>2024-06-15T01:35:14.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Electra upgrade scope not finalized yet, Devcon ticket dates and Curve liquidations All core devs Pectra (Prague + Electra) upgrade, likely targeting Q1 2025 Centralization watch: threatening the value of your ETH Layer 1 Client Releases For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  June 8, 2024]]></title>
-        <id>https://weekinethereumnews.com/?p=2404</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-8-2024/"/>
-        <updated>2024-06-08T00:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links EOF included in Pectra upgrade, largest upgrade ever planned (19 EIPs), likely targeting Q1 2025 All core devs Pectra (Prague + Electra) upgrade Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Client Releases For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
