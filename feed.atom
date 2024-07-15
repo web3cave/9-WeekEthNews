@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-14T06:20:44.548Z</id>
+    <id>urn:2024-07-15T06:22:13.501Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-14T06:20:44.548Z</updated>
+    <updated>2024-07-15T06:22:13.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-22-2024/"/>
         <updated>2024-06-22T02:13:32.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Blob fee market issues, SEC drops Consensys case and CertiK withdrew ~$3M from Kraken without authorization All core devs Pectra (Prague + Electra) upgrade, likely targeting Q1 2025 Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases For Stakers EIPs/Standards Stuff for]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  June 15, 2024]]></title>
-        <id>https://weekinethereumnews.com/?p=2408</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-15-2024/"/>
-        <updated>2024-06-15T01:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Electra upgrade scope not finalized yet, Devcon ticket dates and Curve liquidations All core devs Pectra (Prague + Electra) upgrade, likely targeting Q1 2025 Centralization watch: threatening the value of your ETH Layer 1 Client Releases For Stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
