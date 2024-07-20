@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T06:20:05.878Z</id>
+    <id>urn:2024-07-20T06:20:15.255Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T06:20:05.878Z</updated>
+    <updated>2024-07-20T06:20:15.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  July 20, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2432</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-20-2024/"/>
+        <updated>2024-07-20T02:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links EOF remains in Pectra for now, Virgil Griffith sentence reduced, spot ETH ETFs launch July 23 in US and WazirX (Indian exchange) $230M exploit All core devs Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  July 13, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2427</id>

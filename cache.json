@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2432",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links EOF remains in Pectra for now, Virgil Griffith sentence reduced, spot ETH ETFs launch July 23 in US and WazirX (Indian exchange) $230M exploit All core devs Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-20-2024/",
+          "publishedOn": "2024-07-20T02:08:57.000Z",
+          "wordCount": 2640,
+          "title": "Week in Ethereum News  July 20, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2427",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Multiple domains compromised, SEC drops Paxos BUSD case, Devcon ticket sales open, Alex Pertsev denied bail and Roman Storm granted trial delay All core devs Pectra (Prague + Electra) upgrade, likely targeting Q1 2025 Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases For Stakers Layer 2",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-july-13-2024/",
           "publishedOn": "2024-07-13T01:07:03.000Z",
-          "wordCount": 2707,
+          "wordCount": 2709,
           "title": "Week in Ethereum News  July 13, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
