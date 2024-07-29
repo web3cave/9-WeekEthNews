@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-28T06:19:03.368Z</id>
+    <id>urn:2024-07-29T06:20:44.564Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-28T06:19:03.368Z</updated>
+    <updated>2024-07-29T06:20:44.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-july-6-2024/"/>
         <updated>2024-07-06T01:07:16.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Pectra upgrade size discussion (potentially cap scope) All core devs Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Client Releases For Stakers EIPs/Standards Stuff for developers Security Enterprise Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  June 29, 2024]]></title>
-        <id>https://weekinethereumnews.com/?p=2419</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-june-29-2024/"/>
-        <updated>2024-06-29T01:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links SEC charges Consensys, US Supreme Court overrules Chevron deference and Reth (Paradigm’s Rust execution layer client) is production ready All core devs Pectra (Prague + Electra) upgrade, likely targeting Q1 2025 Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 For Stakers EIPs/Standards Stuff for]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
