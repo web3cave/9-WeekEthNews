@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-02T06:21:43.166Z</id>
+    <id>urn:2024-08-03T06:19:35.922Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-02T06:21:43.166Z</updated>
+    <updated>2024-08-03T06:19:35.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  August 3, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2441</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-3-2024/"/>
+        <updated>2024-08-03T01:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Ethereum ninth anniversary of mainnet launch & Underhanded Solidity contest  All core devs Pectra (Prague + Electra) upgrade, likely targeting Q1 2025 Osaka + F starname upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  July 27, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2436</id>
