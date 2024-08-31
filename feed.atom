@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-30T06:21:33.683Z</id>
+    <id>urn:2024-08-31T06:19:24.589Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-30T06:21:33.683Z</updated>
+    <updated>2024-08-31T06:19:24.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  August 31, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2462</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-august-31-2024/"/>
+        <updated>2024-08-31T00:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links OpenSea received Wells notice, Maker rebrands to Sky All core devs Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases For Stakers EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  August 24, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2456</id>
