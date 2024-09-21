@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2473",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Pectra split into two upgrades with PectrA capped at devnet-3 EIPs & USDS stablecoin live All core devs Pectra (Prague + Electra) upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings: $600 for",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-21-2024/",
+          "publishedOn": "2024-09-21T01:23:35.000Z",
+          "wordCount": 2688,
+          "title": "Week in Ethereum News  September 21, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2469",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Danny Ryan taking indefinite break, Pectra upgrade split proposed & cbBTC live All core devs Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings:",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-september-14-2024/",
           "publishedOn": "2024-09-14T01:18:49.000Z",
-          "wordCount": 2602,
+          "wordCount": 2604,
           "title": "Week in Ethereum News  September 14, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",

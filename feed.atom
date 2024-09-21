@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-20T06:22:05.975Z</id>
+    <id>urn:2024-09-21T06:20:19.743Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-20T06:22:05.975Z</updated>
+    <updated>2024-09-21T06:20:19.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Week in Ethereum News  September 21, 2024]]></title>
+        <id>https://weekinethereumnews.com/?p=2473</id>
+        <link href="https://weekinethereumnews.com/week-in-ethereum-news-september-21-2024/"/>
+        <updated>2024-09-21T01:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Eth News and Links Pectra split into two upgrades with PectrA capped at devnet-3 EIPs & USDS stablecoin live All core devs Pectra (Prague + Electra) upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings: $600 for]]></summary>
+        <author>
+            <name>Andrew Coathup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Ethereum News  September 14, 2024]]></title>
         <id>https://weekinethereumnews.com/?p=2469</id>
