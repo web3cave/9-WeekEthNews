@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2497",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links EF 2024 report & conflict of interest policy and Mekong testnet (Pectra public testnet) live Eth R&D protocol call (All Core Devs) Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Amsterdam upgrade Layer 1 Research Centralization watch: threatening the value of your ETH Client Releases For stakers Layer 2",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-9-2024/",
+          "publishedOn": "2024-11-08T01:20:58.000Z",
+          "wordCount": 2685,
+          "title": "Week in Ethereum News  November 9, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2492",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Eth R&D protocol call (All Core Devs) Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Amsterdam upgrade Layer 1 Centralization watch: threatening the value of your ETH Client Releases For stakers Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings: $600 for 4 issues (75",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-2-2024/",
           "publishedOn": "2024-11-02T00:31:22.000Z",
-          "wordCount": 2534,
+          "wordCount": 2539,
           "title": "Week in Ethereum News  November 2, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
@@ -41,7 +56,7 @@
           "description": "Eth News and Links Eth R&D protocol call (All Core Devs) Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Layer 1 Centralization watch: threatening the value of your ETH Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-october-19-2024/",
           "publishedOn": "2024-10-18T23:42:35.000Z",
-          "wordCount": 2510,
+          "wordCount": 2513,
           "title": "Week in Ethereum News  October 19, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
