@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-10T06:20:03.320Z</id>
+    <id>urn:2024-11-11T06:22:23.829Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-10T06:20:03.320Z</updated>
+    <updated>2024-11-11T06:22:23.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-19-2024/"/>
         <updated>2024-10-18T23:42:35.000Z</updated>
         <summary type="html"><![CDATA[Eth News and Links Eth R&D protocol call (All Core Devs) Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Layer 1 Centralization watch: threatening the value of your ETH Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.]]></summary>
-        <author>
-            <name>Andrew Coathup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  October 12, 2024]]></title>
-        <id>https://weekinethereumnews.com/?p=2480</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-october-12-2024/"/>
-        <updated>2024-10-11T23:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Eth R&D protocol call (All Core Devs) Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Centralization watch: threatening the value of your ETH Layer 1 Research Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Enterprise Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay]]></summary>
         <author>
             <name>Andrew Coathup</name>
         </author>
