@@ -6,12 +6,27 @@
       "siteUrl": "https://weekinethereumnews.com",
       "articles": [
         {
+          "id": "https://weekinethereumnews.com/?p=2505",
+          "author": "Andrew Coathup",
+          "description": "Eth News and Links Pectra (Prague + Electra) upgrade Fusaka (Osaka + Fulu) upgrade Layer 1 Research Centralization watch: threatening the value of your ETH Client Releases Layer 2 EIPs/Standards Stuff for developers Ecosystem Enterprise Job Listings Job listings: $600 for 4 issues (75 char limit).  Pay using 3cities.  Questions? abcoathup at-gmail Onchain stats Regulation/business/tokens",
+          "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-23-2024/",
+          "publishedOn": "2024-11-22T23:43:33.000Z",
+          "wordCount": 2472,
+          "title": "Week in Ethereum News  November 23, 2024",
+          "enclosure": {
+            "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
+            "length": "11409",
+            "type": "image/png"
+          },
+          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/?p=2501",
           "author": "Andrew Coathup",
           "description": "Eth News and Links Devconnect in 2025 & Devcon in 2026, Justin Drake’s beam chain proposal and Virgil Griffith coming home in April Layer 1 Research Centralization watch: threatening the value of your ETH Client Releases Layer 2 EIPs/Standards Stuff for developers Security Ecosystem Job Listings Job listings: $600 for 4 issues (75 char limit).",
           "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-16-2024/",
           "publishedOn": "2024-11-16T01:21:24.000Z",
-          "wordCount": 2319,
+          "wordCount": 2321,
           "title": "Week in Ethereum News  November 16, 2024",
           "enclosure": {
             "url": "https://weekinethereumnews.com/wp-content/uploads/2023/03/WiEN-square-logo.png",
