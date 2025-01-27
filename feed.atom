@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-26T06:20:09.328Z</id>
+    <id>urn:2025-01-27T06:22:40.679Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-26T06:20:09.328Z</updated>
+    <updated>2025-01-27T06:22:40.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Week in Ethereum News  December 28, 2024]]></title>
-        <id>https://weekinethereumnews.com/?p=2526</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-28-2024/"/>
-        <updated>2024-12-27T22:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Eth News and Links Pectra (Prague + Electra) upgrade Layer 1 Centralization watch: threatening the value of your ETH EIPs/Standards Stuff for developers Security Job Listings Job listings: $600 for 4 issues (75 char limit). Pay using 3cities. Questions? abcoathup at-gmail Onchain stats Ecosystem Regulation/business/tokens General END OF SERVICE: plan to deprecate Week in Ethereum]]></summary>
-        <author>
-            <name>evanvanness</name>
-        </author>
-    </entry>
 </feed>
