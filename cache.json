@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Week in Ethereum News",
-      "feedUrl": "https://weekinethereumnews.com/feed/",
-      "siteUrl": "https://weekinethereumnews.com",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
